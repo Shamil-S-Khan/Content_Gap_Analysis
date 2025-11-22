@@ -133,11 +133,13 @@ async def run_analysis(request: AnalysisRequest, background_tasks: BackgroundTas
                 min_recommendations=request.min_recommendations
             )
         
-        # Cache results
+        # Cache results in memory
         last_result = results
         last_metrics = results.get('model_metrics', {})
         
         print(f"[API] Analysis job {job_id} completed successfully")
+        print(f"[API] Cached results: {len(results.get('gaps', []))} gaps, {len(results.get('recommendations', []))} recs")
+        print(f"[API] last_result is now: {'SET' if last_result else 'NULL'}")
         
         return AnalysisResponse(
             job_id=job_id,
@@ -168,12 +170,15 @@ async def get_package():
     """
     global last_result
     
+    print(f"[API] /package called. last_result status: {'SET' if last_result else 'NULL'}")
+    
     if last_result is None:
         raise HTTPException(
             status_code=404,
             detail="No analysis results available. Run /run endpoint first."
         )
     
+    print(f"[API] Returning package with {len(last_result.get('gaps', []))} gaps")
     return JSONResponse(content=last_result)
 
 
