@@ -1,0 +1,14 @@
+{
+  "title": "Webinars - OpenProject",
+  "url": "https://www.openproject.org/webinars/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "webinars", "training", "tutorials", "project management", "agile", "scrum", "kanban", "gantt charts"],
+  "content_type": "documentation",
+  "word_count": 200,
+  "content": "OpenProject offers various webinars designed to provide a comprehensive understanding of how its platform can enhance project management processes. These webinars aim to offer valuable insights and practical tips for both new users and those looking to deepen their knowledge of the platform. Topics covered include detailed introductions to OpenProject, demonstrating its use for both traditional and agile project management, features such as creating project plans, Gantt charts, working with Kanban boards, tracking time, and managing budgets. Webinars also provide an overview of OpenProject as an alternative to tools like Atlassian Jira and Confluence, showcasing its capabilities in task management, development workflows, and business processes. The page also lists upcoming webinars, such as one scheduled for November 19, 2025, at 3 PM CET / 9 AM EDT, and provides navigation links to various sections of the OpenProject website, including product features, pricing, integrations, support, company information, development, resources, and alternatives to other project management tools.",
+  "links": [],
+  "entities": ["OpenProject", "Atlassian Jira", "Confluence"],
+  "language": "en"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Release Notes - OpenProject",
+  "url": "https://www.openproject.org/docs/release-notes/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "release notes", "features", "improvements", "bug fixes", "versions", "documentation"],
+  "content_type": "documentation",
+  "word_count": 500,
+  "content": "The OpenProject Release Notes page provides a comprehensive overview of new features, improvements, and bug fixes across various OpenProject versions. It lists release notes for versions 16.x, 15.x, 14.x, 13.x, 12.x, 11.x, 10.x, 9.x, 8.x, 7.x, 6.x, 5.x, 4.x, and 3.x, with specific release dates for each sub-version. The page serves as a central hub for users to track the evolution of the software and understand the changes introduced in each update. It also contains extensive navigation and links to other sections of the OpenProject documentation, including product features, resources, company information, user guides, system admin guides, enterprise guides, contributions guides, use cases, installation & operations guides, development information, and API documentation. This detailed resource ensures that users and developers can stay informed about the latest developments and leverage the full potential of OpenProject.",
+  "links": [],
+  "entities": ["OpenProject"],
+  "language": "en"
+}

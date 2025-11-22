@@ -1,0 +1,14 @@
+{
+  "title": "OpenProject Pricing - from €0. Start your free trial now.",
+  "url": "https://www.openproject.org/pricing/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "pricing", "plans", "community", "basic", "professional", "premium", "corporate", "cloud", "on-premises"],
+  "content_type": "pricing",
+  "word_count": 200,
+  "content": "OpenProject offers various pricing plans, including a free Community edition and several paid Enterprise options for both cloud and on-premises hosting. The Community Edition is free and self-managed, offering unlimited users and basic features. Cloud Edition plans include Basic, Professional, and Premium, with pricing per user per month and minimum user requirements. The On-premises Edition offers additional add-ons and support, with pricing starting from €5 per user per month. An 'Enterprise' plan is also available with pricing upon request. The pricing page details features, support levels, add-ons, hosting options, user increments, subscription periods, and discounts. A feature comparison table outlines what is included in each plan, covering aspects like project management, agile boards, time tracking, budgeting, integrations, and security features. A FAQ section addresses common questions about pricing, editions, trials, payment, and user management.",
+  "links": [],
+  "entities": ["OpenProject", "Community Edition", "Cloud Edition", "On-premises Edition", "Enterprise Plan"],
+  "language": "en"
+}

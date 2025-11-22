@@ -1,0 +1,29 @@
+services:
+  # FastAPI Service
+  - type: web
+    name: content-gap-api
+    env: docker
+    plan: free
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    dockerCommand: uvicorn api_server:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: PYTHONUNBUFFERED
+        value: 1
+    healthCheckPath: /health
+
+  # Dash Dashboard Service
+  - type: web
+    name: content-gap-dashboard
+    env: docker
+    plan: free
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    dockerCommand: python dashboard_app.py
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: PYTHONUNBUFFERED
+        value: 1

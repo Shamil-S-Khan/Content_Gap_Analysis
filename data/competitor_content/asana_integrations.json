@@ -1,0 +1,14 @@
+{
+  "title": "Asana Integrations - Bring Your Tools & Data Together in Asana",
+  "url": "https://asana.com/integrations",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["asana", "integrations", "communication", "file sharing", "project management", "automation", "CRM", "forms", "video"],
+  "content_type": "documentation",
+  "word_count": 300,
+  "content": "Asana offers a wide range of integrations with other tools to streamline workflows and enhance productivity, allowing users to connect Asana with applications for communication, file sharing, project management, and more. Key integrations include communication tools like Slack and Microsoft Teams, file sharing platforms such as Google Drive and Dropbox, and project management tools like Jira Cloud and Zendesk. Asana also integrates with automation platforms like Zapier, CRM systems like Salesforce, and design tools like Figma. The page highlights how Asana serves as a central hub where teams can bring all their tools and data together to manage work effectively. It also mentions features like building custom apps using Asana's APIs and connecting workflows for different teams. The page includes sections on product overview, solutions for different company types and teams, learning and support resources, and pricing plans, demonstrating Asana's comprehensive ecosystem for work management.",
+  "links": [],
+  "entities": ["Asana", "Slack", "Microsoft Teams", "Zoom", "Google Drive", "Gmail", "Microsoft Outlook", "Zendesk", "Salesforce", "Tableau", "Figma", "Jira Cloud", "Vimeo", "Zapier", "Dropbox"],
+  "language": "en"
+}

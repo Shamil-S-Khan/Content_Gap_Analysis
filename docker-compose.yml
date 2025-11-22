@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  # FastAPI Service
+  api:
+    build: .
+    container_name: content-gap-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+      - ./presentations:/app/presentations
+      - ./models:/app/models
+      - ./dashboards:/app/dashboards
+      - ./content_gap_analysis_package.json:/app/content_gap_analysis_package.json
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: uvicorn api_server:app --host 0.0.0.0 --port 8000 --reload
+    networks:
+      - content-gap-network
+    restart: unless-stopped
+
+  # Dash Dashboard Service
+  dashboard:
+    build: .
+    container_name: content-gap-dashboard
+    ports:
+      - "8050:8050"
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+      - ./presentations:/app/presentations
+      - ./models:/app/models
+      - ./dashboards:/app/dashboards
+      - ./content_gap_analysis_package.json:/app/content_gap_analysis_package.json
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python dashboard_app.py
+    networks:
+      - content-gap-network
+    depends_on:
+      - api
+    restart: unless-stopped
+
+networks:
+  content-gap-network:
+    driver: bridge
+
+volumes:
+  data:
+  reports:
+  presentations:
+  models:
+  dashboards:

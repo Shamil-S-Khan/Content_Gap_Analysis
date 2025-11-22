@@ -1,0 +1,14 @@
+{
+  "title": "OpenProject Support Options: Community, Professional, and Premium",
+  "url": "https://www.openproject.org/support/ (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "support", "community", "professional", "premium", "enterprise", "cloud", "on-premises", "documentation", "training"],
+  "content_type": "documentation",
+  "word_count": 400,
+  "content": "OpenProject offers various support options, including Community, Professional, and Premium support, catering to different user needs and editions of their software. Community Support is available for the free and open-source OpenProject Community edition, primarily provided by the active international OpenProject Community through community tickets and forums, along with access to documentation and user guides. Professional Support is offered for both cloud and on-premises versions of the OpenProject Enterprise edition. It includes email support, a comprehensive user manual, tutorial videos, phone support, training materials, best practices, and onboarding training. Premium Support, available for the on-premises Enterprise edition, encompasses all the benefits of both Basic and Professional support. Additionally, it offers installation support for the user's OpenProject instance and provides 3 hours of dedicated assistance from an onboarding manager, which can be utilized for training sessions or consulting. These tiered support options ensure that users can choose the level of assistance that best suits their organizational needs and technical requirements, from self-service community resources to comprehensive, expert-led support for enterprise clients.",
+  "links": [],
+  "entities": ["OpenProject"],
+  "language": "en"
+}

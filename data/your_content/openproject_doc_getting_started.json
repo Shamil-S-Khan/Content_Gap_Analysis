@@ -1,0 +1,29 @@
+{
+  "title": "Getting started guide",
+  "url": "https://www.openproject.org/docs/getting-started/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["getting started", "guide", "documentation", "onboarding"],
+  "content_type": "doc",
+  "word_count": 164,
+  "content": "This guide provides an introduction to OpenProject, covering initial steps such as signing in, registration, creating projects, inviting members, and working with various features like work packages, Gantt charts, and agile boards. It also details how to configure account settings and utilize the \"My page\" dashboard.\n\nThe guide includes a 3-minute introduction video and a comprehensive product introduction video to demonstrate both traditional and agile project management within OpenProject.\n\nFor further assistance, users can find help through documentation feedback, product feedback, community forums, professional support, or by contributing to the documentation and suggesting new features.\n\nThe page also provides links to various other documentation sections, including:\nUser guides for all features\nFAQs\nUse Cases\nGlossary of project management terms\nEnterprise edition guide\nProject management guide\nSecurity & privacy information\nContributions guide\nSystem admin guide\nRelease Notes\nBIM Guide\nInstallation and operations guide\nDevelopment information\nAPI documentation\n\nPopular topics covered include installing OpenProject, Enterprise add-ons, OpenProject hosting, and support options.",
+  "links": [
+    "https://www.openproject.org/docs/user-guide/",
+    "https://www.openproject.org/docs/faq/",
+    "https://www.openproject.org/docs/use-cases/",
+    "https://www.openproject.org/docs/glossary/",
+    "https://www.openproject.org/docs/enterprise-edition/",
+    "https://www.openproject.org/docs/project-management-guide/",
+    "https://www.openproject.org/docs/security-privacy/",
+    "https://www.openproject.org/docs/development/contributing/",
+    "https://www.openproject.org/docs/system-admin-guide/",
+    "https://www.openproject.org/docs/release-notes/",
+    "https://www.openproject.org/docs/bim-guide/",
+    "https://www.openproject.org/docs/installation-and-operations/",
+    "https://www.openproject.org/docs/development/",
+    "https://www.openproject.org/docs/api/"
+  ],
+  "entities": ["OpenProject"],
+  "language": "en"
+}

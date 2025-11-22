@@ -1,0 +1,14 @@
+{
+  "title": "Trello Productivity Tips: Boost Your Workflow",
+  "url": "https://trello.com/blog/productivity-tips (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["trello", "productivity", "tips", "workflow", "kanban", "automation", "collaboration"],
+  "content_type": "blog_post",
+  "word_count": 250,
+  "content": "Trello offers numerous features to boost productivity, whether for individual task management or team collaboration. Key tips often highlighted include organizing with Boards, Lists, and Cards to structure work and track progress. Detailed card management involves assigning team members, setting due dates, adding descriptions, and using checklists for subtasks. Visual cues and prioritization are achieved through color-coded labels and card covers. Trello facilitates collaboration with commenting features and @mentions for centralized discussions. Workflow automation is possible with Butler, which automates repetitive actions. Efficient navigation is supported by keyboard shortcuts. Power-Ups and integrations enhance functionality with tools like calendar views and analytics. Utilizing Trello templates streamlines new project setups. Finally, visualizing progress with 'Done' lists and due dates helps monitor overall task completion.",
+  "links": [],
+  "entities": ["Trello", "Butler", "Zapier", "Jira"],
+  "language": "en"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Asana Specific Features Review: Core Project Management and Collaboration Tools",
+  "url": "https://asana.com/features (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["asana", "features", "project management", "task management", "collaboration", "automation", "reporting", "goals", "integrations", "AI"],
+  "content_type": "features",
+  "word_count": 1200,
+  "content": "Asana is a popular cloud-based project management software designed to help teams organize, track, and manage their work effectively. It aims to streamline workflows and boost productivity for individuals and teams of various sizes. Core project and task management features include organizing work into shared projects with various views (lists, Kanban boards, timelines, calendars), creating detailed tasks and subtasks with clear owners, due dates, and priorities, and multi-homing tasks across multiple projects. Tasks can be grouped into sections or columns for organization. Asana emphasizes streamlined communication and coordination through centralized communication within tasks, comments, mentions, and an Inbox for automatic updates. Workflow and automation features include custom fields for specific data points, custom rules for automating repetitive tasks, a no-code Workflow Builder, forms for standardizing work requests, and templates for best practices. For reporting and goals, Asana offers goal setting and tracking, portfolios for monitoring strategic initiatives, customizable dashboards for real-time insights, and quick status updates. It supports a wide range of third-party integrations with tools like Slack, Google Drive, Zoom, and Microsoft Teams. Other notable features include Asana AI for planning and workflow acceleration, native time tracking, and mobile/desktop apps. Admin and security features include user and object-level permissions, SSO, 2FA, daily backups, and data recovery, with global data residency options for enterprise customers. Pros include a user-friendly interface, flexible task management, strong collaboration, automation capabilities, extensive integrations, and a functional free plan. Cons include potential higher cost for larger teams, some limitations in reporting and time tracking flexibility, and the sheer number of features potentially overwhelming new users. A single-assignee task constraint is also noted.",
+  "links": [],
+  "entities": ["Asana", "Kanban", "Gantt charts", "Scrum", "AI", "Slack", "Google Drive", "Zoom", "Microsoft Teams", "SSO", "2FA"],
+  "language": "en"
+}

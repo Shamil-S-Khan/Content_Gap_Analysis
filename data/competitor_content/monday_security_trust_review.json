@@ -1,0 +1,14 @@
+{
+  "title": "Monday.com Security and Trust Review: A Multi-Layered Approach to Data Protection",
+  "url": "https://monday.com/security (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["monday.com", "security", "trust", "data protection", "compliance", "certifications", "ISO 27001", "GDPR", "CCPA", "AWS", "Google Cloud", "encryption", "SSL/TLS", "2FA"],
+  "content_type": "documentation",
+  "word_count": 600,
+  "content": "monday.com prioritizes security and trust through various measures and policies. It implements a multi-layered security approach, encompassing physical, application, and infrastructure security. Physical security includes access control, CCTV, and alarm systems in offices, with data centers hosted on Amazon Web Services and Google Cloud Platform employing leading physical security. Application development follows the OWASP Top 10 framework, with all code undergoing peer review, static analysis, vulnerability assessment, and end-to-end testing, alongside periodic security training for developers. Infrastructure security involves hosting across multiple AWS Availability Zones, firewalls, a web application firewall (WAF), DDoS mitigation, NIDS sensors, and comprehensive logging. Data at rest is encrypted using AES-256, and data in transit uses TLS 1.3 (at minimum TLS 1.2). User passwords are hashed and salted. monday.com maintains a private bug bounty program and conducts external security audits and penetration tests, with critical data backed up every 5 minutes. monday.com is considered a legitimate and trustworthy service, transparent about its operations, and provides robust customer support. Its Trust Center emphasizes commitment to secure, private, and transparent data handling. Compliance includes ISO/IEC 27001:2013, ISO/IEC 27017:2015, and ISO/IEC 27018:2014, covering information security management, cloud services security, and protection of personally identifiable information. They also comply with major global privacy regulations like GDPR and CCPA. Furthermore, monday.com has an AI trust center ensuring secure, transparent, and ethical AI capabilities within their platform, adhering to existing account permissions and data residency policies.",
+  "links": [],
+  "entities": ["monday.com", "OWASP Top 10", "AWS", "Google Cloud Platform", "WAF", "DDoS", "NIDS", "AES-256", "TLS 1.3", "TLS 1.2", "ISO/IEC 27001", "ISO/IEC 27017", "ISO/IEC 27018", "GDPR", "CCPA", "AI Trust Center"],
+  "language": "en"
+}

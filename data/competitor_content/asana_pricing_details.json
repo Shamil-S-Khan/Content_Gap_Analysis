@@ -1,0 +1,14 @@
+{
+  "title": "Asana Pricing Details: Premium, Business, and Enterprise Plans",
+  "url": "https://asana.com/pricing (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["asana", "pricing", "premium", "business", "enterprise", "basic", "features", "security", "SSO", "admin console"],
+  "content_type": "pricing",
+  "word_count": 500,
+  "content": "Asana offers several pricing plans beyond its free Basic tier, including Premium, Business, and Enterprise options, each designed to cater to different organizational needs. The Premium Plan, priced at $10.99 per user per month annually or $13.49 monthly, is suitable for teams needing more robust project management. It includes features like Timeline view, advanced search, custom fields, unlimited guests, reporting, custom templates, task dependencies, forms, and workflow builder, along with customer success options and enhanced security features like SSO via SAML and access to the Admin Console. The Business Plan, at $24.99 per user per month annually or $30.49 monthly, is geared towards larger teams managing work across multiple initiatives. It includes all Premium features plus goals, portfolios, workload management, advanced reporting, and unlimited customizations for rules and actions, as well as advanced security features like business approvals and proofing. The Enterprise Plan offers custom quote-based pricing for large organizations with complex needs, providing advanced security, user management, and customization, including tailored administrative privileges, increased data control, and superior user management settings. An Enterprise+ plan is also mentioned for even more comprehensive control. These plans highlight Asana's tiered approach to providing scalable solutions for various business sizes and requirements.",
+  "links": [],
+  "entities": ["Asana", "SAML"],
+  "language": "en"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Trello Security and Trust Review: Protecting User Data and Ensuring Reliability",
+  "url": "https://trello.com/security (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["trello", "security", "trust", "data protection", "compliance", "certifications", "SOC2", "ISO 27001", "PCI-DSS", "GDPR", "encryption", "2FA", "SSO"],
+  "content_type": "documentation",
+  "word_count": 600,
+  "content": "Trello provides a comprehensive approach to security and trust, offering various features and certifications to protect user data and ensure a reliable service. Key aspects of Trello's security and trust include certifications and compliance with standards such as SOC2 Type 2, ISO/IEC 27001, and PCI-DSS. They also adhere to GDPR compliance, respecting user rights regarding data protection. Data protection is ensured through encryption of all communications between users and the platform using industry-standard SSL/TLS, with data encrypted both in transit and at rest. Trello also performs weekly vulnerability scans and annual penetration tests. Access controls and authentication are stringent, requiring user identification and offering two-factor authentication (2FA) to strengthen user account security. Single Sign-On (SSO) is supported for Enterprise and Guard customers, integrating with identity providers like Okta, OneLogin, or Microsoft Azure. Trello provides various privacy options for boards, including 'Private' (only invited users), 'Workspace' (visible to a specific team), and 'Public' (accessible to anyone with a link). For Enterprise customers, an 'Organization' option restricts access to people within the organization. Trello aims for 100% availability and publishes its real-time status and incident history on trellostatus.com. Trello Enterprise offers enhanced security features such as mobile device management (MDM) support, authenticated attachments, and centralized administration through the Enterprise Admin Dashboard. Users can further enhance their security on Trello by using strong, unique passwords, enabling two-factor authentication, limiting access permissions, and regularly reviewing board members. Trello also encourages reporting vulnerabilities through BugCrowd.",
+  "links": [],
+  "entities": ["Trello", "SOC2 Type 2", "ISO/IEC 27001", "PCI-DSS", "GDPR", "SSL/TLS", "2FA", "SSO", "Okta", "OneLogin", "Microsoft Azure", "BugCrowd"],
+  "language": "en"
+}

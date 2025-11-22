@@ -1,0 +1,14 @@
+{
+  "title": "Browse monday.com Integrations",
+  "url": "https://monday.com/integrations",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["monday.com", "integrations", "app marketplace", "communication", "productivity", "CRM", "sales", "development", "customer support", "automation"],
+  "content_type": "documentation",
+  "word_count": 400,
+  "content": "monday.com offers a robust App Marketplace with over 200 integrations to connect with various external tools and enhance workflows. These integrations allow users to centralize data, automate tasks, streamline communication, and simplify processes between monday.com and other platforms. Popular integrations include communication and collaboration tools like Slack, Gmail, Microsoft Teams, Zoom, and Outlook. For productivity and storage, integrations with Google Drive and Figma are available. CRM and sales teams benefit from integrations with Salesforce and HubSpot. Development teams can connect with GitHub and GitLab, while customer support teams can integrate with Zendesk. Other integrations include DocuSign and Ringover. Users can easily set up these integrations, often in just a few clicks and without requiring any coding. The monday.com App Marketplace also allows developers to build and submit their own applications, further expanding the platform's capabilities. The page highlights how these integrations help monday.com users to centralize data, automate work, and connect various tools, ultimately enhancing overall productivity and collaboration. Customer testimonials and information about their open API are also featured.",
+  "links": [],
+  "entities": ["monday.com", "Slack", "Gmail", "Microsoft Teams", "Zoom", "Outlook", "Google Drive", "Figma", "Salesforce", "HubSpot", "GitHub", "GitLab", "Zendesk", "DocuSign", "Ringover"],
+  "language": "en"
+}

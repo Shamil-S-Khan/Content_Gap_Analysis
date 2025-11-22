@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Generated outputs (exclude from image to keep it small)
+reports/*.pdf
+reports/*.md
+presentations/*.pptx
+presentations/*.json
+presentations/*.md
+models/*.pkl
+models/*.json
+dashboards/*.json
+content_gap_analysis_package.json
+
+# Data (will be mounted as volumes)
+data/sample_content/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Documentation (not needed in container)
+*.md
+!README.md
+
+# Git
+.git/
+.gitignore

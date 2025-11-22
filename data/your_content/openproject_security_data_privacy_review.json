@@ -1,0 +1,14 @@
+{
+  "title": "OpenProject Security and Data Privacy Review",
+  "url": "https://www.openproject.org/security-data-privacy/ (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "security", "data privacy", "GDPR", "open source", "authentication", "2FA", "encryption", "hosting", "vulnerability management"],
+  "content_type": "documentation",
+  "word_count": 500,
+  "content": "OpenProject demonstrates a strong commitment to security and data privacy, particularly aligning with European regulations. As a European-based company, it is fully compliant with GDPR, the German Federal Data Protection Act (BDSG), and other applicable data privacy regulations, offering Data Processing Agreements (DPAs) to clients. The company emphasizes data minimization and transparency, with its open-source codebase publicly available on GitHub for review and security testing. OpenProject's cloud environment is hosted in EU data centers (AWS or Scaleway), compliant with ISO 27001 and 27018 standards, ensuring data sovereignty. Data is continuously backed up and encrypted both in transit (TLS/HTTPS) and at rest (AES-256). Security features include robust authentication mechanisms, configurable password rules, salted bcrypt for password storage, LDAP synchronization, single sign-on, and two-factor authentication (2FA). It also provides strong user management and access control, security monitoring, and antivirus scanning. OpenProject has a defined process for handling security vulnerabilities, including a dedicated email for reporting and a public security advisory list on GitHub. Customers with admin accounts can act as data controllers, fulfilling GDPR requests for data access, modification, and deletion. The privacy policy details data categorization, flows, storage duration, and legal basis for processing.",
+  "links": [],
+  "entities": ["OpenProject", "GDPR", "BDSG", "GitHub", "AWS", "Scaleway", "ISO 27001", "ISO 27018", "LDAP", "SAML"],
+  "language": "en"
+}

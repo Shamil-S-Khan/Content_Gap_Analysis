@@ -1,0 +1,14 @@
+{
+  "title": "Customizable templates to get your team started in minutes",
+  "url": "https://monday.com/templates",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["monday.com", "templates", "project management", "workflow", "customization", "automation", "integrations"],
+  "content_type": "guide",
+  "word_count": 150,
+  "content": "Monday.com offers a wide variety of customizable templates to help teams manage projects and workflows efficiently. These templates are available directly within the platform's template center when setting up a new board. There are over 100 pre-built templates designed for different industries, project types, and workflows, allowing teams to start quickly without building from scratch. Templates can be customized with various features such as automation, integrations, Gantt charts, and Kanban boards to fit specific project needs. Examples include project plan templates, content calendars, and product development templates. Users can also create their own custom templates and the monday.com community shares templates for boards and workspaces.",
+  "links": [],
+  "entities": ["Monday.com", "Gantt charts", "Kanban boards"],
+  "language": "en"
+}

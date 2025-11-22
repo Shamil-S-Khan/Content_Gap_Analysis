@@ -1,0 +1,14 @@
+{
+  "title": "Documentation & Help - OpenProject",
+  "url": "https://www.openproject.org/docs/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "documentation", "help", "user guides", "FAQs", "use cases", "glossary", "enterprise edition", "project management", "security", "privacy", "installation", "API"],
+  "content_type": "documentation",
+  "word_count": 300,
+  "content": "The OpenProject documentation and help page serves as a central hub for various resources, including user guides, FAQs, use cases, a glossary, and specific guides for the Enterprise edition, project management, security & privacy, contributions, system administration, release notes, BIM, installation & operations, development, and API. Popular topics highlighted on the page include installing OpenProject, Enterprise add-ons, OpenProject hosting, and support. The page also provides links to product information, company details, development & operation resources, and comparisons to alternative project management tools. This comprehensive overview demonstrates OpenProject's commitment to providing extensive support and information to its users, covering a wide range of topics from initial setup to advanced development and API usage, ensuring users can effectively utilize the platform for their project management needs.",
+  "links": [],
+  "entities": ["OpenProject", "BIM"],
+  "language": "en"
+}

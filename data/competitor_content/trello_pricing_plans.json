@@ -1,0 +1,14 @@
+{
+  "title": "Which Trello Plan Is Best for You? Our Pricing Guide Can Help",
+  "url": "https://trello.com/pricing",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["trello", "pricing", "plans", "free", "standard", "premium", "enterprise"],
+  "content_type": "pricing",
+  "word_count": 300,
+  "content": "Trello offers a tiered pricing structure that includes a free plan and three paid options: Standard, Premium, and Enterprise. The Free Plan is suitable for individuals or small teams, offering unlimited cards, up to 10 boards per Workspace, unlimited Power-Ups, and 10 MB/file storage. The Standard Plan, priced at $5 per user per month (billed annually), includes unlimited boards, advanced checklists, custom fields, and guest access. The Premium Plan, at $10 per user per month (billed annually), adds features like additional views (Timeline, Calendar, Dashboard, Table, Map), unlimited automation runs, and enhanced admin controls. The Enterprise Plan, starting at $17.50 per user per month, is for larger organizations, offering higher security standards, organization-wide permissions, and SSO. Trello also provides discounts for non-profit organizations, students, and teachers.",
+  "links": [],
+  "entities": ["Trello", "Standard Plan", "Premium Plan", "Enterprise Plan", "Power-Ups", "Atlassian Access"],
+  "language": "en"
+}

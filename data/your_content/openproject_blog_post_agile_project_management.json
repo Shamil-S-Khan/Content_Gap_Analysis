@@ -1,0 +1,14 @@
+{
+  "title": "Agile project management - why and in what case?",
+  "url": "https://www.openproject.org/blog/agile-project-management/",
+  "published_at": "2020-05-15",
+  "updated_at": null,
+  "author": "Rebecca Bernsen",
+  "tags": ["agile", "project management", "scrum", "kanban", "waterfall"],
+  "content_type": "blog_post",
+  "word_count": 76,
+  "content": "Agile project management is an adaptive approach for complex projects, breaking them into smaller parts for flexibility and continuous customer feedback. It is ideal for projects with high uncertainty, stakeholder involvement, and a need for fast launches, but not always superior to the waterfall method. Both methodologies can be combined, and OpenProject is presented as a tool that supports this hybrid approach.",
+  "links": [],
+  "entities": ["OpenProject"],
+  "language": "en"
+}

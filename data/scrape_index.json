@@ -1,0 +1,324 @@
+{
+  "entries": [
+    {
+      "url": "https://www.openproject.org/docs/",
+      "title": "Documentation & Help - OpenProject",
+      "content_hash": "0d107a91c2dac2f44849af2c9db86da01a09528181b0ed92ec9df36defc7b571",
+      "word_count": 382,
+      "first_scraped": "2025-11-20T19:40:24.231337",
+      "last_scraped": "2025-11-20T19:40:24.231337"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/",
+      "title": "User guide - OpenProject",
+      "content_hash": "48d91739d2c7a1cee929586761b34d0320bb86336507d4eb964559e18f8e1841",
+      "word_count": 819,
+      "first_scraped": "2025-11-20T19:40:26.006861",
+      "last_scraped": "2025-11-20T19:40:26.006861"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/gantt-chart/",
+      "title": "Gantt charts - OpenProject",
+      "content_hash": "0416d572ec63aefdd4ef1f03968b10996b561e15c36b4b2bf14f351d34a299f2",
+      "word_count": 3218,
+      "first_scraped": "2025-11-20T19:40:27.679453",
+      "last_scraped": "2025-11-20T19:40:27.679453"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/wiki/",
+      "title": "Wiki - OpenProject",
+      "content_hash": "9eba23ff99657a8b39426d80cdb4da637821523e8eb64242e6f7e6c688d358f8",
+      "word_count": 1735,
+      "first_scraped": "2025-11-20T19:40:29.282569",
+      "last_scraped": "2025-11-20T19:40:29.282569"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/time-and-costs/",
+      "title": "Time tracking and cost reporting - OpenProject",
+      "content_hash": "706851bfc27b1e2a219e9e176a33206c578f40d21685ed8f7e2002c4920b1071",
+      "word_count": 769,
+      "first_scraped": "2025-11-20T19:40:30.926755",
+      "last_scraped": "2025-11-20T19:40:30.926755"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/agile-boards/",
+      "title": "Boards for Agile Project Management - OpenProject",
+      "content_hash": "0f6a640e4673fe37704db51a2832883f99cab6f8a2d79db4e86eeb70cf6727fd",
+      "word_count": 2572,
+      "first_scraped": "2025-11-20T19:40:32.643701",
+      "last_scraped": "2025-11-20T19:40:32.643701"
+    },
+    {
+      "url": "https://www.openproject.org/docs/installation-and-operations/",
+      "title": "Installation & operations guide - OpenProject",
+      "content_hash": "0c2f6f7b11590597cd38e1721e339888c955cf19b92d1424c95569118fbceb0f",
+      "word_count": 900,
+      "first_scraped": "2025-11-20T19:40:34.126272",
+      "last_scraped": "2025-11-20T19:40:34.126272"
+    },
+    {
+      "url": "https://www.openproject.org/blog/",
+      "title": "Blog - OpenProject",
+      "content_hash": "70929c57c1f6cfde85540d13994900a17403a3b98a0449a86b05810b385572c7",
+      "word_count": 565,
+      "first_scraped": "2025-11-20T19:40:35.476314",
+      "last_scraped": "2025-11-20T19:40:35.476314"
+    },
+    {
+      "url": "https://www.openproject.org/features/",
+      "title": "Project Collaboration Software Features - OpenProject",
+      "content_hash": "5ea2cf76b543842bc5856d7de6b4475f220f2df8b4c1a71c3691f041478b9e3d",
+      "word_count": 3094,
+      "first_scraped": "2025-11-20T19:40:48.408676",
+      "last_scraped": "2025-11-20T19:40:48.408676"
+    },
+    {
+      "url": "https://www.openproject.org/pricing/",
+      "title": "OpenProject Pricing - from â¬0. Start your free trial now.",
+      "content_hash": "afbdfd24b930b83cf01cbb73a45a7158dcf895b4bdcbaf66ab73d180368f550d",
+      "word_count": 2872,
+      "first_scraped": "2025-11-20T19:40:50.355556",
+      "last_scraped": "2025-11-20T19:40:50.355556"
+    },
+    {
+      "url": "https://www.openproject.org/download-and-installation/",
+      "title": "Free Download and Install - OpenProject",
+      "content_hash": "677d85bc2707f6158e24b880fb10351d448a7a9ca38486e56b815aa3c03f4af8",
+      "word_count": 721,
+      "first_scraped": "2025-11-20T19:40:51.770435",
+      "last_scraped": "2025-11-20T19:40:51.770435"
+    },
+    {
+      "url": "https://www.openproject.org/security/",
+      "title": "Statement on security - OpenProject",
+      "content_hash": "d12de63b20c86bfb66a5543c5a95829ad224dc2daeea68ee5192bc91099f657a",
+      "word_count": 1639,
+      "first_scraped": "2025-11-20T19:40:53.789905",
+      "last_scraped": "2025-11-20T19:40:53.789905"
+    },
+    {
+      "url": "https://www.openproject.org/integrations/",
+      "title": "Integrations - OpenProject",
+      "content_hash": "aba842732b189fcb3fbc440f83df7e068db52084466f161f2094fc36adb1940f",
+      "word_count": 1026,
+      "first_scraped": "2025-11-20T19:40:55.147410",
+      "last_scraped": "2025-11-20T19:40:55.147410"
+    },
+    {
+      "url": "https://www.openproject.org/api/",
+      "title": "API documentation",
+      "content_hash": "68bd10d2f5caeefba5d6bc7db4d490f50f191d3f5be6e789f9678dee222c358b",
+      "word_count": 818,
+      "first_scraped": "2025-11-20T19:40:57.049909",
+      "last_scraped": "2025-11-20T19:40:57.049909"
+    },
+    {
+      "url": "https://www.openproject.org/roadmap/",
+      "title": "OpenProject Roadmap - Open Source Project Management Software",
+      "content_hash": "591dc1a3bce1fe78de02c08802ff25a0d852f99bf251ab869a13ebe6fcd74471",
+      "word_count": 1157,
+      "first_scraped": "2025-11-20T19:40:58.454906",
+      "last_scraped": "2025-11-20T19:40:58.454906"
+    },
+    {
+      "url": "https://www.openproject.org/cloud-edition/",
+      "title": "Enterprise Project Management Software - OpenProject",
+      "content_hash": "e6fa4136d3f7d42163aaba6b585b0634693195b8460004a16623219ed4aafe86",
+      "word_count": 1337,
+      "first_scraped": "2025-11-20T19:41:00.567535",
+      "last_scraped": "2025-11-20T19:41:00.567535"
+    },
+    {
+      "url": "https://asana.com/resources",
+      "title": "Work, Task & Project Management Resources • Asana • Asana",
+      "content_hash": "019836288374cfdd6ab903edbf06d2d315224bea942e7ab6376c91aa416868de",
+      "word_count": 269,
+      "first_scraped": "2025-11-20T19:41:14.268476",
+      "last_scraped": "2025-11-20T19:41:14.268476"
+    },
+    {
+      "url": "https://asana.com/resources/gantt-chart-basics",
+      "title": "What is a Gantt Chart? Guide to Project Timelines [2025] • Asana",
+      "content_hash": "567f2025d3f05bec99eed7090da7eeb031e697d3bb7bb68cfaa4c0e871c500a1",
+      "word_count": 4215,
+      "first_scraped": "2025-11-20T19:41:15.767677",
+      "last_scraped": "2025-11-20T19:41:15.767677"
+    },
+    {
+      "url": "https://asana.com/resources/raci-chart",
+      "title": "RACI Charts: The Ultimate Guide, with Examples [2025] • Asana",
+      "content_hash": "cceb573841aa33d204f255dbe4217619be998818652c3b648118e0d17788a016",
+      "word_count": 2398,
+      "first_scraped": "2025-11-20T19:41:17.187597",
+      "last_scraped": "2025-11-20T19:41:17.187597"
+    },
+    {
+      "url": "https://asana.com/resources/work-breakdown-structure",
+      "title": "Work Breakdown Structure (WBS): What Is It? [2025] • Asana",
+      "content_hash": "9efdca7bd234c8ca6d61ba31cbf8ce2c6aaaa9919c3efb49cd6aed5828dd247b",
+      "word_count": 2821,
+      "first_scraped": "2025-11-20T19:41:18.551608",
+      "last_scraped": "2025-11-20T19:41:18.551608"
+    },
+    {
+      "url": "https://asana.com/resources/project-roadmap",
+      "title": "You Need a Project Roadmap—Here's Why [2025] • Asana",
+      "content_hash": "d50a0b6be29dfc76088c0653365e13e370b003c5d0a0239edeaf9fb9a74d1ee7",
+      "word_count": 2786,
+      "first_scraped": "2025-11-20T19:41:19.954429",
+      "last_scraped": "2025-11-20T19:41:19.954429"
+    },
+    {
+      "url": "https://asana.com/resources/agile-methodology",
+      "title": "What Is Agile Methodology? (A Beginner’s Guide) [2025] • Asana",
+      "content_hash": "9d18b934ec8af21206d41542de42e9dfeab6a1a998beadf37a89b1d4ed8f2473",
+      "word_count": 2826,
+      "first_scraped": "2025-11-20T19:41:21.325210",
+      "last_scraped": "2025-11-20T19:41:21.325210"
+    },
+    {
+      "url": "https://asana.com/product",
+      "title": "Asana Work Management - Features, Uses & Product • Asana",
+      "content_hash": "2543c1ec054516ff6f08d6c9cffef14fb498d3d2ac09a6fe78d0755ab8c91d36",
+      "word_count": 579,
+      "first_scraped": "2025-11-20T19:41:27.908178",
+      "last_scraped": "2025-11-20T19:41:27.908178"
+    },
+    {
+      "url": "https://asana.com/pricing",
+      "title": "Asana Pricing | Personal, Starter, Advanced, & Enterprise plans • Asana",
+      "content_hash": "cd16f687821f0d11ad820e2243c0a0616b116e0eecfc48f3744a3513600c5847",
+      "word_count": 2531,
+      "first_scraped": "2025-11-20T19:41:29.522304",
+      "last_scraped": "2025-11-20T19:41:29.522304"
+    },
+    {
+      "url": "https://asana.com/features",
+      "title": "Asana's Work Tracking & Project Management Features • Asana",
+      "content_hash": "238cb4174793de401311db09c6da0890f72122178008e2e27d89b3ed13229316",
+      "word_count": 922,
+      "first_scraped": "2025-11-20T19:41:30.953350",
+      "last_scraped": "2025-11-20T19:41:30.953350"
+    },
+    {
+      "url": "https://asana.com/templates",
+      "title": "Free Project Templates & AI Workflows Gallery • Asana",
+      "content_hash": "90ce11114b26714bbfb631fbeb94ed48d9b45ce81211ad9f5bc1efe61036254e",
+      "word_count": 421,
+      "first_scraped": "2025-11-20T19:41:32.372118",
+      "last_scraped": "2025-11-20T19:41:32.372118"
+    },
+    {
+      "url": "https://asana.com/uses/project-management",
+      "title": "Coordinate Projects—Online Tools, Templates & App • Asana",
+      "content_hash": "9d3a0dabc40e520a469ad2b1ee618ed86f4d3aefeec2c0de0d7b4d2f7bc51dd2",
+      "word_count": 1623,
+      "first_scraped": "2025-11-20T19:41:33.865952",
+      "last_scraped": "2025-11-20T19:41:33.865952"
+    },
+    {
+      "url": "https://trello.com/guide",
+      "title": "Trello Guides: Help Getting Started With Trello | Trello",
+      "content_hash": "0fbc9f4cb72220bdb28b2defc86b217d307864d2baf7e5ecfac8b8606fa92697",
+      "word_count": 189,
+      "first_scraped": "2025-11-20T19:41:35.238650",
+      "last_scraped": "2025-11-20T19:41:35.238650"
+    },
+    {
+      "url": "https://trello.com/en/tour",
+      "title": "What is Trello: Learn Features, Uses & More | Trello",
+      "content_hash": "8f0bf1a3904f26b95983371ce60e25d5c3c5fb72d35710492acf9675d186a0cf",
+      "word_count": 557,
+      "first_scraped": "2025-11-20T19:41:36.461433",
+      "last_scraped": "2025-11-20T19:41:36.461433"
+    },
+    {
+      "url": "https://trello.com/pricing",
+      "title": "Which Trello Plan Is Best for You? Our Pricing Guide Can Help | Trello",
+      "content_hash": "41867ca1a8529830f21d0baedf2e9a29ce3dc96ec4279895318fe9c6c2cc62bb",
+      "word_count": 1611,
+      "first_scraped": "2025-11-20T19:41:38.384133",
+      "last_scraped": "2025-11-20T19:41:38.384133"
+    },
+    {
+      "url": "https://trello.com/enterprise",
+      "title": "Trello Enterprise | Trello",
+      "content_hash": "0cd842fa1c637cc7e199ff5c3af852ba0fdf44aca8db1d48d805478c1a62d383",
+      "word_count": 399,
+      "first_scraped": "2025-11-20T19:41:40.303597",
+      "last_scraped": "2025-11-20T19:41:40.303597"
+    },
+    {
+      "url": "https://trello.com/use-cases/project-management",
+      "title": "Project Management Without the Mayhem | Trello",
+      "content_hash": "0638d10efc7ce4ad0efb6ad136c794017b87a03085d0b0b360e44b3fef811068",
+      "word_count": 612,
+      "first_scraped": "2025-11-20T19:41:42.275139",
+      "last_scraped": "2025-11-20T19:41:42.275139"
+    },
+    {
+      "url": "https://trello.com/integrations",
+      "title": "Power-Up Your Productivity with Trello Integrations | Trello",
+      "content_hash": "75c54e82759ce0c03a10f8798fc140df79db6d608d6fb29d57fdb831c2725a85",
+      "word_count": 214,
+      "first_scraped": "2025-11-20T19:41:45.802001",
+      "last_scraped": "2025-11-20T19:41:45.802001"
+    },
+    {
+      "url": "https://trello.com/about",
+      "title": "About Us: Trello History, Logos & Customers | Trello",
+      "content_hash": "3321486dc27f7648aafb9ca7dce1d53bc505ebdd2e6d0aa2ecb6f436aca3468a",
+      "word_count": 688,
+      "first_scraped": "2025-11-20T19:41:51.298758",
+      "last_scraped": "2025-11-20T19:41:51.298758"
+    },
+    {
+      "url": "https://trello.com/teams",
+      "title": "Trello Use Cases: Learn How Teams Use Trello | Trello",
+      "content_hash": "60325e79aed164054949c79290d46f146ab48207768878015f40afed2e1aa476",
+      "word_count": 289,
+      "first_scraped": "2025-11-20T19:41:52.857134",
+      "last_scraped": "2025-11-20T19:41:52.857134"
+    },
+    {
+      "url": "https://monday.com/product",
+      "title": "monday.com | The AI work platform",
+      "content_hash": "75240fb6a34576d075d9e19871cb6fa643b5088d662a604f2ef9c93863ebe9f7",
+      "word_count": 741,
+      "first_scraped": "2025-11-20T19:41:57.007068",
+      "last_scraped": "2025-11-20T19:41:57.007068"
+    },
+    {
+      "url": "https://monday.com/pricing",
+      "title": "monday.com pricing and plans",
+      "content_hash": "d37af57c5ed309d30f8330357daacaf9fcffba8df310f7e6de396b166dd92bf9",
+      "word_count": 1342,
+      "first_scraped": "2025-11-20T19:41:59.619903",
+      "last_scraped": "2025-11-20T19:41:59.619903"
+    },
+    {
+      "url": "https://monday.com/enterprise",
+      "title": "monday.com for Enterprise | monday.com",
+      "content_hash": "0d771dd5c10401898abc2c3f8b71838195c5b2532a39e63ccfcf9f772dc1bd80",
+      "word_count": 704,
+      "first_scraped": "2025-11-20T19:42:26.707139",
+      "last_scraped": "2025-11-20T19:42:26.707139"
+    },
+    {
+      "url": "https://monday.com/blog",
+      "title": "monday.com Blog: Tips And Trends For The New Way Of Working",
+      "content_hash": "6d15351c16dd99dc948fb6acdc462e1c95233727751008c289db4b382048cef6",
+      "word_count": 1954,
+      "first_scraped": "2025-11-20T19:42:39.529606",
+      "last_scraped": "2025-11-20T19:42:39.529606"
+    },
+    {
+      "url": "https://monday.com/features",
+      "title": "monday.com | The AI work platform",
+      "content_hash": "21dc94155e5fa64324ad2d3bf56b4c1b3542cb87f7a83d4a6a7753881d8e69a4",
+      "word_count": 739,
+      "first_scraped": "2025-11-21T12:53:56.104514",
+      "last_scraped": "2025-11-21T12:53:56.104514"
+    }
+  ]
+}
