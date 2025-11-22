@@ -27,3 +27,5 @@ services:
         value: 10000
       - key: PYTHONUNBUFFERED
         value: 1
+      - key: API_URL
+        value: https://content-gap-api.onrender.com

@@ -13,6 +13,7 @@ import json
 import os
 from pathlib import Path
 import pandas as pd
+import requests
 
 # Initialize Dash app with Bootstrap theme
 app = dash.Dash(
@@ -22,6 +23,10 @@ app = dash.Dash(
 )
 
 app.title = "Content Gap Analysis Dashboard"
+server = app.server  # For deployment
+
+# Get API URL from environment or use default
+API_URL = os.getenv('API_URL', 'http://localhost:8000')
 
 # Color scheme
 COLORS = {
@@ -36,14 +41,26 @@ COLORS = {
 
 
 def load_latest_results():
-    """Load the latest analysis results from file"""
+    """Load the latest analysis results from API or file"""
+    # Try API first
+    try:
+        response = requests.get(f"{API_URL}/package", timeout=10)
+        if response.status_code == 200:
+            print(f"✅ Loaded data from API: {API_URL}")
+            return response.json()
+    except Exception as e:
+        print(f"⚠️ Could not fetch from API ({API_URL}): {e}")
+    
+    # Fallback to local file
     package_path = 'content_gap_analysis_package.json'
     
     if not os.path.exists(package_path):
+        print(f"❌ No local data file found: {package_path}")
         return None
     
     try:
         with open(package_path, 'r', encoding='utf-8') as f:
+            print(f"✅ Loaded data from local file: {package_path}")
             return json.load(f)
     except Exception as e:
         print(f"Error loading results: {e}")
