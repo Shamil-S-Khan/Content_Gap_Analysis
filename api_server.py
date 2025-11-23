@@ -133,13 +133,11 @@ async def run_analysis(request: AnalysisRequest, background_tasks: BackgroundTas
                 min_recommendations=request.min_recommendations
             )
         
-        # Cache results in memory
+        # Cache results
         last_result = results
         last_metrics = results.get('model_metrics', {})
         
         print(f"[API] Analysis job {job_id} completed successfully")
-        print(f"[API] Cached results: {len(results.get('gaps', []))} gaps, {len(results.get('recommendations', []))} recs")
-        print(f"[API] last_result is now: {'SET' if last_result else 'NULL'}")
         
         return AnalysisResponse(
             job_id=job_id,
@@ -170,38 +168,13 @@ async def get_package():
     """
     global last_result
     
-    print(f"[API] /package called. last_result status: {'SET' if last_result else 'NULL'}")
+    if last_result is None:
+        raise HTTPException(
+            status_code=404,
+            detail="No analysis results available. Run /run endpoint first."
+        )
     
-    # Try memory first
-    if last_result is not None:
-        print(f"[API] Returning from memory: {len(last_result.get('gaps', []))} gaps")
-        return JSONResponse(content=last_result)
-    
-    # Fallback to static file (for Render where memory doesn't persist)
-    static_file = 'static_package.json'
-    if os.path.exists(static_file):
-        try:
-            print(f"[API] Loading from static file: {static_file}")
-            with open(static_file, 'r', encoding='utf-8') as f:
-                package_data = json.load(f)
-                print(f"[API] Loaded {len(package_data.get('gaps', []))} gaps from static file")
-                return JSONResponse(content=package_data)
-        except Exception as e:
-            print(f"[API] Error loading static file: {e}")
-    
-    # Last resort: try content_gap_analysis_package.json
-    if os.path.exists('content_gap_analysis_package.json'):
-        try:
-            with open('content_gap_analysis_package.json', 'r', encoding='utf-8') as f:
-                package_data = json.load(f)
-                return JSONResponse(content=package_data)
-        except Exception as e:
-            print(f"[API] Error loading package file: {e}")
-    
-    raise HTTPException(
-        status_code=404,
-        detail="No analysis results available. Run /run endpoint first."
-    )
+    return JSONResponse(content=last_result)
 
 
 @app.get("/metrics")

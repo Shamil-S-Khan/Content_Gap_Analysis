@@ -43,6 +43,44 @@ services:
       - api
     restart: unless-stopped
 
+  # ngrok for API
+  ngrok-api:
+    image: ngrok/ngrok:latest
+    container_name: content-gap-ngrok-api
+    command:
+      - "start"
+      - "--all"
+      - "--config"
+      - "/etc/ngrok.yml"
+    volumes:
+      - ./ngrok.yml:/etc/ngrok.yml
+    ports:
+      - "4040:4040"
+    networks:
+      - content-gap-network
+    depends_on:
+      - api
+    restart: unless-stopped
+
+  # ngrok for Dashboard
+  ngrok-dashboard:
+    image: ngrok/ngrok:latest
+    container_name: content-gap-ngrok-dashboard
+    command:
+      - "start"
+      - "--all"
+      - "--config"
+      - "/etc/ngrok.yml"
+    volumes:
+      - ./ngrok-dashboard.yml:/etc/ngrok.yml
+    ports:
+      - "4041:4040"
+    networks:
+      - content-gap-network
+    depends_on:
+      - dashboard
+    restart: unless-stopped
+
 networks:
   content-gap-network:
     driver: bridge

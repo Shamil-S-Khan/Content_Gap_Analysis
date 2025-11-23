@@ -36,8 +36,9 @@ COPY data/ ./data/
 RUN mkdir -p reports presentations models dashboards
 
 # Expose ports
-# Port will be set by environment variable (Render uses dynamic ports)
-EXPOSE 8000 8050 10000
+# 8000 for FastAPI
+# 8050 for Dash dashboard
+EXPOSE 8000 8050
 
-# Default command (can be overridden)
+# Default command (can be overridden in docker-compose)
 CMD ["uvicorn", "api_server:app", "--host", "0.0.0.0", "--port", "8000"]
