@@ -1,14 +1,32 @@
 #!/bin/bash
 # Oracle Cloud Deployment Script for Content Gap Analysis
-# Run this script on your Oracle Cloud VM
+# Run this script on your Oracle Cloud VM (Oracle Linux or Ubuntu)
 
 set -e
 
 echo "🚀 Setting up Content Gap Analysis on Oracle Cloud..."
 
+# Detect OS
+if [ -f /etc/oracle-release ]; then
+    OS="oracle"
+    echo "📍 Detected: Oracle Linux"
+elif [ -f /etc/lsb-release ]; then
+    OS="ubuntu"
+    echo "📍 Detected: Ubuntu"
+else
+    OS="unknown"
+    echo "📍 OS: Unknown, trying generic approach..."
+fi
+
 # Update system
 echo "📦 Updating system packages..."
-sudo apt update && sudo apt upgrade -y
+if [ "$OS" = "oracle" ]; then
+    sudo dnf update -y
+    sudo dnf install -y git curl
+elif [ "$OS" = "ubuntu" ]; then
+    sudo apt update && sudo apt upgrade -y
+    sudo apt install -y git curl
+fi
 
 # Install Docker
 echo "🐳 Installing Docker..."
