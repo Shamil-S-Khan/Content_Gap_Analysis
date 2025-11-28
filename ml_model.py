@@ -98,60 +98,95 @@ class GapClassificationModel:
         return features, labels, descriptions
     
     def _generate_synthetic_samples(self, n_samples: int) -> List[Dict[str, Any]]:
-        """Generate synthetic training samples"""
+        """Generate synthetic training samples with realistic overlap and ambiguity"""
         
         samples = []
         
-        # Templates for each gap type
+        # MORE REALISTIC templates with overlapping language
         templates = {
             'missing': [
-                "Complete guide to {topic} is missing from content",
-                "Need comprehensive coverage of {topic}",
-                "Competitors discuss {topic} but we don't",
-                "Gap identified in {topic} content area"
+                "{topic} coverage needs improvement and expansion",
+                "Limited discussion of {topic} compared to industry standards",
+                "{topic} section is incomplete and requires development",
+                "Competitors have extensive {topic} content we lack",
+                "Our {topic} information is insufficient for users",
+                "{topic} gaps identified in content audit"
             ],
             'thin': [
-                "Superficial coverage of {topic} needs expansion",
-                "Content about {topic} lacks depth compared to competitors",
-                "Need to expand {topic} discussion",
-                "Thin content on {topic} requires more detail"
+                "{topic} content exists but lacks sufficient detail",
+                "Superficial {topic} coverage needs more depth",
+                "Brief mention of {topic} without comprehensive explanation",
+                "{topic} section is too short and needs expansion",
+                "Limited {topic} examples and use cases provided",
+                "Our {topic} content is less detailed than competitors"
             ],
             'outdated': [
-                "Content about {topic} is outdated and needs refresh",
-                "Old information on {topic} requires update",
-                "{topic} content hasn't been updated recently",
-                "Stale content on {topic} needs revision"
+                "{topic} information may be outdated or stale",
+                "Content about {topic} needs updating and refresh",
+                "{topic} section references old data and statistics",
+                "Our {topic} coverage doesn't reflect current trends",
+                "{topic} content was last updated over a year ago",
+                "Need to modernize {topic} discussion and examples"
             ],
             'under-optimized': [
-                "Content on {topic} lacks proper keyword optimization",
-                "{topic} page needs SEO improvements",
-                "Under-optimized content about {topic}",
-                "Missing key terms in {topic} content"
+                "{topic} content has low keyword density and poor SEO",
+                "Missing relevant {topic} keywords in metadata",
+                "{topic} page lacks proper heading structure",
+                "Our {topic} content ranks poorly in search results",
+                "{topic} section needs better internal linking",
+                "Suboptimal {topic} content for search engines"
             ]
         }
         
-        # Sample topics
-        topics = [
-            "machine learning", "data analysis", "cloud computing", "cybersecurity",
-            "digital marketing", "project management", "customer service", "sales strategy",
-            "product development", "team collaboration", "business intelligence", "automation",
-            "mobile apps", "web development", "API integration", "database management",
-            "user experience", "content strategy", "social media", "email marketing"
+        # Add AMBIGUOUS templates that could fit multiple categories
+        ambiguous_templates = [
+            "{topic} content needs work",  # Could be any type
+            "Issues with our {topic} coverage",  # Could be any type
+            "{topic} section requires attention",  # Could be any type
+            "Problems identified in {topic} area",  # Could be any type
+            "{topic} content gaps present",  # Could be missing or thin
+            "Need to improve {topic} information"  # Could be thin or outdated
         ]
         
-        # Generate samples
+        # More varied topics with technical overlap
+        topics = [
+            "machine learning", "artificial intelligence", "data analysis", "data science",
+            "cloud computing", "cloud infrastructure", "cybersecurity", "network security",
+            "digital marketing", "content marketing", "project management", "agile methodology",
+            "customer service", "customer experience", "sales strategy", "business development",
+            "product development", "product design", "team collaboration", "remote work",
+            "business intelligence", "data visualization", "automation", "workflow automation",
+            "mobile apps", "mobile development", "web development", "full-stack development",
+            "API integration", "API design", "database management", "data architecture",
+            "user experience", "UI design", "content strategy", "SEO strategy",
+            "social media", "social media marketing", "email marketing", "marketing automation"
+        ]
+        
+        # Generate samples with intentional overlap
         samples_per_type = n_samples // len(self.gap_types)
         
         for gap_type in self.gap_types:
-            for _ in range(samples_per_type):
+            for i in range(samples_per_type):
                 topic = random.choice(topics)
-                template = random.choice(templates[gap_type])
+                
+                # 90% use type-specific template, 10% use ambiguous template
+                if random.random() < 0.90:
+                    template = random.choice(templates[gap_type])
+                else:
+                    template = random.choice(ambiguous_templates)
+                
                 text = template.format(topic=topic)
+                
+                # Add noise - 3% chance of WRONG label (reduced from 5%)
+                actual_gap_type = gap_type
+                if random.random() < 0.03:
+                    # Mislabel some samples
+                    actual_gap_type = random.choice([gt for gt in self.gap_types if gt != gap_type])
                 
                 samples.append({
                     'text': text,
-                    'gap_type': gap_type,
-                    'description': f"{gap_type.title()} gap for {topic}"
+                    'gap_type': actual_gap_type,
+                    'description': f"{actual_gap_type.title()} gap for {topic}"
                 })
         
         return samples

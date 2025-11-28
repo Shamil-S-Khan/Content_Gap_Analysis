@@ -61,7 +61,3 @@ docker-compose down
 - **ML**: scikit-learn, spaCy, NLTK
 - **Dashboard**: Dash, Plotly
 - **Deployment**: Docker, ngrok, Oracle Cloud
-
-## License
-
-MIT

@@ -319,6 +319,302 @@
       "word_count": 739,
       "first_scraped": "2025-11-21T12:53:56.104514",
       "last_scraped": "2025-11-21T12:53:56.104514"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/backlogs-scrum/",
+      "title": "Backlogs (Scrum) - OpenProject",
+      "content_hash": "3c11714f1526ca1eb4eaf1cfebcdcde3ffc41115e9303e2e4d17f2fee06c881b",
+      "word_count": 678,
+      "first_scraped": "2025-11-28T10:39:24.584969",
+      "last_scraped": "2025-11-28T10:39:24.584969"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/budgets/",
+      "title": "Budgets - OpenProject",
+      "content_hash": "07ab85457f401b641d1b868ba6e580260bf17951a0fab1ce4839e0cb4fd2936e",
+      "word_count": 1859,
+      "first_scraped": "2025-11-28T10:39:26.314607",
+      "last_scraped": "2025-11-28T10:39:26.314607"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/meetings/",
+      "title": "Meeting management - OpenProject",
+      "content_hash": "ab4ee16e5b315afd55dcd1a00772872b2931774c55da43f1abc3b605f18d9e97",
+      "word_count": 1220,
+      "first_scraped": "2025-11-28T10:39:28.020324",
+      "last_scraped": "2025-11-28T10:39:28.020324"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/calendar/",
+      "title": "Calendar - OpenProject",
+      "content_hash": "6f7981b3f0673ea30565a2f796399a2ee0b77a171a27b84187d0112731a8eade",
+      "word_count": 1884,
+      "first_scraped": "2025-11-28T10:39:29.700965",
+      "last_scraped": "2025-11-28T10:39:29.700965"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/team-planner/",
+      "title": "Team planner - OpenProject",
+      "content_hash": "bb1cb4f0c9cff9745c219bef0403fec956c613d29ae24535f9f951246dc838d6",
+      "word_count": 2686,
+      "first_scraped": "2025-11-28T10:39:31.564500",
+      "last_scraped": "2025-11-28T10:39:31.564500"
+    },
+    {
+      "url": "https://www.openproject.org/docs/system-admin-guide/",
+      "title": "System admin guide - OpenProject",
+      "content_hash": "6a4009f27f17e174cad5b95b7b1b1b10f5f77f4b819c489d7ad52966b522a94b",
+      "word_count": 630,
+      "first_scraped": "2025-11-28T10:39:33.312246",
+      "last_scraped": "2025-11-28T10:39:33.312246"
+    },
+    {
+      "url": "https://www.openproject.org/docs/development/",
+      "title": "Develop OpenProject - OpenProject",
+      "content_hash": "93aebd65c7383b9f30bdcd2aa482d11f5f891e2738e3d60a768b00f752bd6159",
+      "word_count": 1481,
+      "first_scraped": "2025-11-28T10:39:35.614491",
+      "last_scraped": "2025-11-28T10:39:35.614491"
+    },
+    {
+      "url": "https://www.openproject.org/customers/",
+      "title": "Customers: Who uses OpenProject?",
+      "content_hash": "4ef72d7bc7f4d0958f70df1dba864f2ce488b642726428a59d6d8b7b25b359c9",
+      "word_count": 939,
+      "first_scraped": "2025-11-28T10:39:43.108895",
+      "last_scraped": "2025-11-28T10:39:43.108895"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/work-packages/",
+      "title": "Work packages - OpenProject",
+      "content_hash": "6a1d66572cc19a7052fa05a1847afdb5f8243e6befc3c190e06d55303bae49dd",
+      "word_count": 724,
+      "first_scraped": "2025-11-28T10:39:44.824156",
+      "last_scraped": "2025-11-28T10:39:44.824156"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/projects/",
+      "title": "Manage projects - OpenProject",
+      "content_hash": "dfddaaf272ffe28263a94a9cabf5c4908aa20032b5cac306a98bfeb4f3eef641",
+      "word_count": 977,
+      "first_scraped": "2025-11-28T10:39:46.885901",
+      "last_scraped": "2025-11-28T10:39:46.885901"
+    },
+    {
+      "url": "https://www.openproject.org/docs/release-notes/",
+      "title": "Release Notes - OpenProject",
+      "content_hash": "6168a9e5f0eb31f2110c8456e58bba0b45d1581185eb1dbfeadffcfb970f4f30",
+      "word_count": 894,
+      "first_scraped": "2025-11-28T10:39:48.604384",
+      "last_scraped": "2025-11-28T10:39:48.604384"
+    },
+    {
+      "url": "https://www.openproject.org/legal/",
+      "title": "Legal information - OpenProject",
+      "content_hash": "9e75be6f9e9d7bb9f4c50907f108af7ddbec6968bb35b29921d30fec67771676",
+      "word_count": 765,
+      "first_scraped": "2025-11-28T10:39:49.920090",
+      "last_scraped": "2025-11-28T10:39:49.920090"
+    },
+    {
+      "url": "https://asana.com/uses/work-management",
+      "title": "Work Management Software & Tool for Any Business • Asana",
+      "content_hash": "9cedf9e91d08e8a85993bd2dfcc92c0e700b34b1eab2b4a9e02c14d42d30c0f0",
+      "word_count": 710,
+      "first_scraped": "2025-11-28T10:40:07.932635",
+      "last_scraped": "2025-11-28T10:40:07.932635"
+    },
+    {
+      "url": "https://asana.com/uses/goal-management",
+      "title": "Goal Management Software & Tools • Asana",
+      "content_hash": "883287c232dcc6c8d21900f99997b6226f5ab354cc1c899d507f5d2ff72447a3",
+      "word_count": 1102,
+      "first_scraped": "2025-11-28T10:40:09.336792",
+      "last_scraped": "2025-11-28T10:40:09.336792"
+    },
+    {
+      "url": "https://asana.com/enterprise",
+      "title": "Asana for Enterprise Organizations - Work Management • Asana",
+      "content_hash": "954ad5127b7dd297fc9d85cbdf868ff49fa613bbe56bc318c65185e5564e2191",
+      "word_count": 493,
+      "first_scraped": "2025-11-28T10:40:11.223687",
+      "last_scraped": "2025-11-28T10:40:11.223687"
+    },
+    {
+      "url": "https://asana.com/developers",
+      "title": "Asana Developers - API, Documentation & Community Support • Asana",
+      "content_hash": "e3e5ca9de8c2b630bc990a99209435b8de8a9ae520289bf4dad99a410c471217",
+      "word_count": 263,
+      "first_scraped": "2025-11-28T10:40:13.352447",
+      "last_scraped": "2025-11-28T10:40:13.352447"
+    },
+    {
+      "url": "https://asana.com/apps",
+      "title": "Asana Apps and Integrations • Asana",
+      "content_hash": "e9c14c53fb7ee90ae26abcfdbb15dc8875cb14a553d92170de6ecbf968acbe79",
+      "word_count": 10100,
+      "first_scraped": "2025-11-28T10:40:16.896351",
+      "last_scraped": "2025-11-28T10:40:16.896351"
+    },
+    {
+      "url": "https://trello.com/views",
+      "title": "Trello Views: Give Your Work a New Look | Trello",
+      "content_hash": "830ab30012ac4693b57e0e0f12ccb9d27e0b71a1f108eea79f5d071919df2855",
+      "word_count": 473,
+      "first_scraped": "2025-11-28T10:41:13.126684",
+      "last_scraped": "2025-11-28T10:41:13.126684"
+    },
+    {
+      "url": "https://trello.com/premium",
+      "title": "Boost Your Business Productivity with Trello Premium | Trello",
+      "content_hash": "0c835bc29deeef8fb4fd05f3a73d89d8450bb9dd422cc6eda276a3ff5f43a887",
+      "word_count": 436,
+      "first_scraped": "2025-11-28T10:41:15.197246",
+      "last_scraped": "2025-11-28T10:41:15.197246"
+    },
+    {
+      "url": "https://monday.com/workdocs",
+      "title": "monday workdocs | monday.com",
+      "content_hash": "d8d2bcac137ed0ddd882ed67d2a5c36ff2fb5cb95f38a930ae6bdee6b28211e3",
+      "word_count": 134,
+      "first_scraped": "2025-11-28T10:44:16.024485",
+      "last_scraped": "2025-11-28T10:44:16.024485"
+    },
+    {
+      "url": "https://monday.com/security",
+      "title": "Trust Center | monday.com",
+      "content_hash": "a9eb12729451b34f81025d645515994ef8bf5ba70498dc745614e81061a7320a",
+      "word_count": 479,
+      "first_scraped": "2025-11-28T10:44:34.443176",
+      "last_scraped": "2025-11-28T10:44:34.443176"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/notifications/",
+      "title": "Notifications - OpenProject",
+      "content_hash": "ddc5451bb44f9fac647ceb6fe1763999b35441e13b2d333485994b2c33715691",
+      "word_count": 1616,
+      "first_scraped": "2025-11-28T11:21:39.808821",
+      "last_scraped": "2025-11-28T11:21:39.808821"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/members/",
+      "title": "Manage members - OpenProject",
+      "content_hash": "0e1ba1bac7aeae194ab697f9be0451dfceef2257d0283077cb0531269674ba18",
+      "word_count": 2064,
+      "first_scraped": "2025-11-28T11:21:41.515888",
+      "last_scraped": "2025-11-28T11:21:41.515888"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/repository/",
+      "title": "Repository for source code control - OpenProject",
+      "content_hash": "6fecfbe2ab26b467669680578e2253cab56e40fb863985fd8e538be29bf195ea",
+      "word_count": 1134,
+      "first_scraped": "2025-11-28T11:21:43.069423",
+      "last_scraped": "2025-11-28T11:21:43.069423"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/forums/",
+      "title": "Forums - OpenProject",
+      "content_hash": "2146ca5b4aad022e15eae5929ab3da8e95181e7c3250d622c5cc1fe4116c7af8",
+      "word_count": 1519,
+      "first_scraped": "2025-11-28T11:21:44.806326",
+      "last_scraped": "2025-11-28T11:21:44.806326"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/news/",
+      "title": "Project News - OpenProject",
+      "content_hash": "41e9d79a4ce500dc8f78e69c689e91ee1ae4b83b94eabc6f2432f1c41be80f13",
+      "word_count": 1184,
+      "first_scraped": "2025-11-28T11:21:46.213185",
+      "last_scraped": "2025-11-28T11:21:46.213185"
+    },
+    {
+      "url": "https://www.openproject.org/docs/enterprise-guide/",
+      "title": "Enterprise guide - OpenProject",
+      "content_hash": "e03dadd7239156886164009258a52cfd7e882bce214bf4ebc1acd27917ce5bb1",
+      "word_count": 1067,
+      "first_scraped": "2025-11-28T11:21:47.821475",
+      "last_scraped": "2025-11-28T11:21:47.821475"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/documents/",
+      "title": "Documents - OpenProject",
+      "content_hash": "5e403f77c9b2bfc8602dfafceba33cdd192b4b611a683e288d8670e4b0cc3609",
+      "word_count": 1144,
+      "first_scraped": "2025-11-28T11:21:54.419403",
+      "last_scraped": "2025-11-28T11:21:54.419403"
+    },
+    {
+      "url": "https://www.openproject.org/docs/user-guide/wysiwyg/",
+      "title": "Rich text (WYSIWYG) editor in OpenProject - OpenProject",
+      "content_hash": "4aff72c157763e0383ee318d63b08a1a796e78063109e13e71d9f9cbc1cc3efb",
+      "word_count": 2641,
+      "first_scraped": "2025-11-28T11:22:05.564357",
+      "last_scraped": "2025-11-28T11:22:05.564357"
+    },
+    {
+      "url": "https://www.openproject.org/docs/faq/",
+      "title": "Frequently asked questions (FAQ) for OpenProject - OpenProject",
+      "content_hash": "386b7971e1fb05a880fff60464e349b38acd266a1c55f690abd2db970d2314d3",
+      "word_count": 7165,
+      "first_scraped": "2025-11-28T11:22:07.167933",
+      "last_scraped": "2025-11-28T11:22:07.167933"
+    },
+    {
+      "url": "https://asana.com/integrations",
+      "title": "Asana Integrations - Bring Your Tools & Data Together in Asana  • Asana",
+      "content_hash": "db61db478c5acf1891d07f80ce9871cef779b42b5f80a5db1266d8d6fc92efc5",
+      "word_count": 201,
+      "first_scraped": "2025-11-28T11:23:35.901419",
+      "last_scraped": "2025-11-28T11:23:35.901419"
+    },
+    {
+      "url": "https://trello.com/standard",
+      "title": "Make Teamwork Less Work with Trello Standard | Trello",
+      "content_hash": "bb20ace125f89bdaa92dc03c9cc7bfff1be244cad81e4006ce1a1f402195b462",
+      "word_count": 243,
+      "first_scraped": "2025-11-28T11:24:19.272108",
+      "last_scraped": "2025-11-28T11:24:19.272108"
+    },
+    {
+      "url": "https://monday.com/lang/resources",
+      "title": "monday.com | The AI work platform",
+      "content_hash": "d3da34b544a2f56636e1ca49f860d04a3179b98f7f055dbe6d670b8c90996010",
+      "word_count": 738,
+      "first_scraped": "2025-11-28T11:25:07.672965",
+      "last_scraped": "2025-11-28T11:25:07.672965"
+    },
+    {
+      "url": "https://monday.com/crm",
+      "title": "Do it faster with monday.com",
+      "content_hash": "50a03ab95ac626e46424d016a1858bda9fdea627b5c747df780699900125c47b",
+      "word_count": 1302,
+      "first_scraped": "2025-11-28T11:27:48.024510",
+      "last_scraped": "2025-11-28T11:27:48.024510"
+    },
+    {
+      "url": "https://monday.com/work-management",
+      "title": "Work Management Software For Connecting Work to Shared Goals",
+      "content_hash": "5a22e80beda06de0447adb4bb5e08faaf11381dea8217c75680a6321c526a2d9",
+      "word_count": 728,
+      "first_scraped": "2025-11-28T11:27:53.694390",
+      "last_scraped": "2025-11-28T11:27:53.694390"
+    },
+    {
+      "url": "https://monday.com/marketing",
+      "title": "Work Management Software For Connecting Work to Shared Goals",
+      "content_hash": "89bf39bd60bf3eca901e2578b086bb8213c38178341c6435595c7c4b2a12a111",
+      "word_count": 456,
+      "first_scraped": "2025-11-28T11:28:44.626668",
+      "last_scraped": "2025-11-28T11:28:44.626668"
+    },
+    {
+      "url": "https://monday.com/construction",
+      "title": "Construction Management Software | monday.com",
+      "content_hash": "13387df8b35b5f17884aeecd08079eee7540c064524ccb0ce57e04773ad7fe1a",
+      "word_count": 171,
+      "first_scraped": "2025-11-28T11:28:59.969393",
+      "last_scraped": "2025-11-28T11:28:59.969393"
     }
   ]
 }

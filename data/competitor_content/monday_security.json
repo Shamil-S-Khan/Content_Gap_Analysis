@@ -1,0 +1,39 @@
+{
+  "title": "Trust Center | monday.com",
+  "url": "https://monday.com/security",
+  "published_at": null,
+  "updated_at": "2025-11-28T15:44:34.439440",
+  "author": null,
+  "tags": [
+    "security",
+    "privacy",
+    "risk",
+    "monday",
+    "data",
+    "organization",
+    "global",
+    "service",
+    "information",
+    "more"
+  ],
+  "content_type": "webpage",
+  "word_count": 479,
+  "content": "monday.com Trust Center At monday.com, we secure the information of more than 245,000 customers worldwide with absolute transparency and 24/7 support Security Compliance Hub Go the extra mile to safeguard your business data and streamline your organization’s secured access withGuardian add-on Security is in our DNA Privacy is more than just a policy Transparency is key Security is in our DNA Privacy is more than just a policy Transparency is key Digital Operational Resilience Act DORA Security & Privacy FAQ AI Security & Privacy FAQ Security & Privacy FAQ AI Security & Privacy FAQ Compliance & Certifications ISO/IEC 27001:2022 \nwhich is the most rigorous global security standard for Information Security Management Systems (ISMS) ISO/IEC 27017:2015 \nprovides controls and implementation guidance for both cloud service providers and cloud service customers ISO/IEC 27018:2019\nestablishes commonly accepted control objectives, controls and guidelines for implementing measures to protect Personally Identifiable Information (PII) ISO/IEC 27032:2023 \nprovides guidance for improving the state of Cybersecurity, drawing out the unique aspects of that activity, and its dependencies on other security domains ISO/IEC 27701:2019\nspecifies requirements and provides guidance for establishing, implementing, maintaining and continually improving a Privacy Information Management System (PIMS) The Health Insurance Portability and Accountability Act (HIPAA) Service Organization Control (SOC) 1 Type II Report Service Organization Control (SOC) 2 Type II Report Service Organization Control (SOC) 3 Report General Data Protection Regulation (GDPR). For the success of our customers and the protection of their personal data Protected by PrivacyTeam: global leading privacy consulting firm monday.com is an APN Advanced Technology Partner and a part of the APN Global Startup Program Cloud Security Alliance (CSA): The world’s leading organization dedicated to awareness of best cloud security practices. monday.com has completed their industry standard security questionnaire. Certified through the Texas Risk and Authorization Management Program. These certified products have undergone a rigorous risk assessment and met strict security standards, ensuring they are suitable and secure for utilization by Texas State and local government entities. monday.com Inc., our US subsidiary, complies with the EU-US Data Privacy Framework (EU-US DPF), the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework as set forth by the US Department of Commerce, and where appropriate - primarily relies on such certification for accepting transfers of data from the EEA, UK and Switzerland to the US (as applicable). Request access to monday.com’s ProcessUnity Global Risk Exchange (formerly CyberGRX) independent third party risk assessment questionnaire. \nThe Global Risk Exchange assessment methodology identifies both inherent and residual risk and uses near real-time threat analysis and independent evidence validation to provide customers with a holistic view of their third-party cyber risk posture. The Higher Education Community Vendor Assessment Toolkit (HECVAT) is a tool designed to help college and university professionals more easily measure vendor risk.\nHecvat is part of our Assurance package, and is available upon request. How to report a vulnerability?",
+  "description": "Security & Privacy",
+  "links": [
+    "https://monday.com/trustcenter/datasecure/",
+    "https://monday.com/trustcenter/privacy/",
+    "https://monday.com/trustcenter/securitypolicies/",
+    "https://monday.com/trustcenter/datasecure/",
+    "https://monday.com/trustcenter/privacy/",
+    "https://monday.com/trustcenter/securitypolicies/",
+    "https://monday.com/trustcenter/dora",
+    "https://monday.com/terms/gdpr",
+    "https://monday.com/partners/aws/",
+    "https://monday.com/terms/csa",
+    "https://monday.com/security/form/"
+  ],
+  "entities": [],
+  "language": "en",
+  "content_hash": "a9eb12729451b34f81025d645515994ef8bf5ba70498dc745614e81061a7320a"
+}

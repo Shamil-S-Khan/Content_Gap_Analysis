@@ -1,14 +1,14 @@
 {
   "corpus_stats": {
     "your_content": {
-      "token_count": 12138,
-      "page_count": 77,
-      "document_count": 42
+      "token_count": 22627,
+      "page_count": 148,
+      "document_count": 63
     },
     "competitor_content": {
-      "token_count": 17668,
-      "page_count": 99,
-      "document_count": 65,
+      "token_count": 22736,
+      "page_count": 128,
+      "document_count": 79,
       "competitor_sources": [
         "Asana",
         "Trello",
@@ -21,21 +21,21 @@
       "title": "OpenProject 12.0.10",
       "gap_type": "under-optimized",
       "keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security",
-        "tool",
         "support",
-        "ai",
+        "per",
+        "feature",
+        "sale",
+        "workflow",
+        "work",
+        "automation",
         "marketing",
-        "work"
+        "productivity"
       ],
       "impact_score": 95,
       "difficulty": "medium",
@@ -46,21 +46,21 @@
       "title": "OpenProject API Documentation",
       "gap_type": "under-optimized",
       "keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security",
-        "tool",
         "support",
-        "ai",
+        "per",
+        "feature",
+        "sale",
+        "workflow",
+        "work",
+        "automation",
         "marketing",
-        "work"
+        "productivity"
       ],
       "impact_score": 94,
       "difficulty": "medium",
@@ -71,21 +71,21 @@
       "title": "Wiki - OpenProject",
       "gap_type": "under-optimized",
       "keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security",
-        "tool",
         "support",
-        "ai",
+        "per",
+        "feature",
+        "sale",
+        "workflow",
+        "automation",
         "marketing",
-        "feature"
+        "productivity",
+        "apps"
       ],
       "impact_score": 94,
       "difficulty": "medium",
@@ -93,24 +93,124 @@
       "competitor_coverage": "48 keyword opportunities"
     },
     {
+      "title": "Forums - OpenProject",
+      "gap_type": "under-optimized",
+      "keywords": [
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
+        "goal",
+        "support",
+        "per",
+        "feature",
+        "sale",
+        "workflow",
+        "work",
+        "automation",
+        "marketing",
+        "productivity"
+      ],
+      "impact_score": 93,
+      "difficulty": "medium",
+      "reason": "Missing 47 high-value competitor keywords",
+      "competitor_coverage": "47 keyword opportunities"
+    },
+    {
+      "title": "Rich text (WYSIWYG) editor in OpenProject - OpenProject",
+      "gap_type": "under-optimized",
+      "keywords": [
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
+        "goal",
+        "support",
+        "per",
+        "feature",
+        "sale",
+        "workflow",
+        "automation",
+        "marketing",
+        "productivity",
+        "apps"
+      ],
+      "impact_score": 93,
+      "difficulty": "medium",
+      "reason": "Missing 47 high-value competitor keywords",
+      "competitor_coverage": "47 keyword opportunities"
+    },
+    {
+      "title": "Agile project management - why and in what case?",
+      "gap_type": "under-optimized",
+      "keywords": [
+        "board",
+        "data",
+        "integration",
+        "user",
+        "goal",
+        "support",
+        "per",
+        "feature",
+        "sale",
+        "workflow",
+        "work",
+        "automation",
+        "marketing",
+        "productivity",
+        "apps"
+      ],
+      "impact_score": 92,
+      "difficulty": "medium",
+      "reason": "Missing 46 high-value competitor keywords",
+      "competitor_coverage": "46 keyword opportunities"
+    },
+    {
       "title": "OpenProject Community News Review: Continuous Development and Open-Source Engagement",
       "gap_type": "under-optimized",
       "keywords": [
-        "guide",
-        "automation",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security",
-        "tool",
         "support",
-        "ai",
-        "marketing",
+        "per",
+        "sale",
+        "workflow",
         "work",
-        "management"
+        "automation",
+        "marketing",
+        "productivity",
+        "apps"
+      ],
+      "impact_score": 92,
+      "difficulty": "medium",
+      "reason": "Missing 46 high-value competitor keywords",
+      "competitor_coverage": "46 keyword opportunities"
+    },
+    {
+      "title": "Budgets - OpenProject",
+      "gap_type": "under-optimized",
+      "keywords": [
+        "board",
+        "data",
+        "integration",
+        "management",
+        "goal",
+        "support",
+        "per",
+        "feature",
+        "sale",
+        "workflow",
+        "automation",
+        "marketing",
+        "productivity",
+        "apps",
+        "platform"
       ],
       "impact_score": 92,
       "difficulty": "medium",
@@ -121,46 +221,21 @@
       "title": "Gantt charts - OpenProject",
       "gap_type": "under-optimized",
       "keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security",
-        "tool",
         "support",
-        "ai",
-        "marketing",
-        "feature"
-      ],
-      "impact_score": 92,
-      "difficulty": "medium",
-      "reason": "Missing 46 high-value competitor keywords",
-      "competitor_coverage": "46 keyword opportunities"
-    },
-    {
-      "title": "Free Download and Install - OpenProject",
-      "gap_type": "under-optimized",
-      "keywords": [
-        "guide",
-        "automation",
-        "workflow",
-        "goal",
-        "visual",
-        "productivity",
-        "team",
-        "security",
-        "tool",
-        "support",
-        "ai",
-        "marketing",
-        "work",
+        "per",
         "feature",
-        "management"
+        "sale",
+        "workflow",
+        "automation",
+        "marketing",
+        "productivity",
+        "apps"
       ],
       "impact_score": 92,
       "difficulty": "medium",
@@ -168,104 +243,29 @@
       "competitor_coverage": "46 keyword opportunities"
     },
     {
-      "title": "Release Notes - OpenProject",
+      "title": "Project News - OpenProject",
       "gap_type": "under-optimized",
       "keywords": [
-        "enterprise",
-        "automation",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security",
-        "tool",
         "support",
-        "ai",
-        "marketing",
+        "per",
+        "sale",
+        "workflow",
         "work",
-        "management"
+        "automation",
+        "marketing",
+        "productivity",
+        "apps"
       ],
       "impact_score": 92,
       "difficulty": "medium",
       "reason": "Missing 46 high-value competitor keywords",
       "competitor_coverage": "46 keyword opportunities"
-    },
-    {
-      "title": "OpenProject Security and Data Privacy Review",
-      "gap_type": "under-optimized",
-      "keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
-        "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "tool",
-        "support",
-        "ai",
-        "marketing",
-        "work",
-        "feature"
-      ],
-      "impact_score": 92,
-      "difficulty": "medium",
-      "reason": "Missing 46 high-value competitor keywords",
-      "competitor_coverage": "46 keyword opportunities"
-    },
-    {
-      "title": "Open Source Alternative for Project Management Software ...",
-      "gap_type": "under-optimized",
-      "keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
-        "goal",
-        "visual",
-        "productivity",
-        "team",
-        "security",
-        "tool",
-        "support",
-        "ai",
-        "marketing",
-        "work",
-        "feature"
-      ],
-      "impact_score": 91,
-      "difficulty": "medium",
-      "reason": "Missing 45 high-value competitor keywords",
-      "competitor_coverage": "45 keyword opportunities"
-    },
-    {
-      "title": "Agile project management - why and in what case?",
-      "gap_type": "under-optimized",
-      "keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
-        "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security",
-        "tool",
-        "support",
-        "ai",
-        "marketing",
-        "work"
-      ],
-      "impact_score": 91,
-      "difficulty": "medium",
-      "reason": "Missing 45 high-value competitor keywords",
-      "competitor_coverage": "45 keyword opportunities"
     },
     {
       "title": "Expand coverage of Customer",
@@ -336,17 +336,6 @@
       "competitor_coverage": "2 competitor documents"
     },
     {
-      "title": "Content about Trello",
-      "gap_type": "missing",
-      "keywords": [
-        "trello"
-      ],
-      "impact_score": 21,
-      "difficulty": "medium",
-      "reason": "Topic covered by 1 competitors but absent from your content",
-      "competitor_coverage": "1/3 competitors"
-    },
-    {
       "title": "Content about Asana",
       "gap_type": "missing",
       "keywords": [
@@ -358,10 +347,10 @@
       "competitor_coverage": "1/3 competitors"
     },
     {
-      "title": "Content about Workflow",
+      "title": "Content about Trello",
       "gap_type": "missing",
       "keywords": [
-        "workflow"
+        "trello"
       ],
       "impact_score": 21,
       "difficulty": "medium",
@@ -373,6 +362,17 @@
       "gap_type": "missing",
       "keywords": [
         "task"
+      ],
+      "impact_score": 21,
+      "difficulty": "medium",
+      "reason": "Topic covered by 1 competitors but absent from your content",
+      "competitor_coverage": "1/3 competitors"
+    },
+    {
+      "title": "Content about Workflow",
+      "gap_type": "missing",
+      "keywords": [
+        "workflow"
       ],
       "impact_score": 21,
       "difficulty": "medium",
@@ -413,10 +413,10 @@
       "competitor_coverage": "1/3 competitors"
     },
     {
-      "title": "Content about Platform",
+      "title": "Content about Board",
       "gap_type": "missing",
       "keywords": [
-        "platform"
+        "board"
       ],
       "impact_score": 21,
       "difficulty": "medium",
@@ -435,10 +435,10 @@
       "competitor_coverage": "1/3 competitors"
     },
     {
-      "title": "Content about Board",
+      "title": "Content about Platform",
       "gap_type": "missing",
       "keywords": [
-        "board"
+        "platform"
       ],
       "impact_score": 21,
       "difficulty": "medium",
@@ -446,21 +446,10 @@
       "competitor_coverage": "1/3 competitors"
     },
     {
-      "title": "Content about Get",
+      "title": "Content about Across",
       "gap_type": "missing",
       "keywords": [
-        "get"
-      ],
-      "impact_score": 21,
-      "difficulty": "medium",
-      "reason": "Topic covered by 1 competitors but absent from your content",
-      "competitor_coverage": "1/3 competitors"
-    },
-    {
-      "title": "Content about Like",
-      "gap_type": "missing",
-      "keywords": [
-        "like"
+        "across"
       ],
       "impact_score": 21,
       "difficulty": "medium",
@@ -490,6 +479,17 @@
       "competitor_coverage": "1/3 competitors"
     },
     {
+      "title": "Content about Goal",
+      "gap_type": "missing",
+      "keywords": [
+        "goal"
+      ],
+      "impact_score": 21,
+      "difficulty": "medium",
+      "reason": "Topic covered by 1 competitors but absent from your content",
+      "competitor_coverage": "1/3 competitors"
+    },
+    {
       "title": "Content about Communication",
       "gap_type": "missing",
       "keywords": [
@@ -506,24 +506,24 @@
       "title": "OpenProject 12.0.10",
       "slug": "openproject-12010",
       "target_keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security"
+        "support",
+        "per",
+        "feature",
+        "sale"
       ],
-      "search_intent": "Informational (how-to/tutorial)",
+      "search_intent": "Informational (general)",
       "impact_score": 95,
       "difficulty": "medium",
       "outline": {
         "H1": "OpenProject 12.0.10",
         "H2": [
-          "Introduction to Workflow",
+          "Introduction to Integration",
           "Key Features and Benefits",
           "Implementation Guide",
           "Use Cases and Examples",
@@ -532,11 +532,11 @@
         ]
       },
       "media_assets": [
-        "Hero image: workflow overview",
-        "Optimized featured image with enterprise",
-        "Infographic: enterprise quick reference",
-        "Chart: enterprise performance metrics",
-        "Video embed: enterprise demonstration"
+        "Hero image: board overview",
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -546,7 +546,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2025-12-14",
+      "publish_priority": "2025-12-19",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 49 keyword opportunities. Missing 49 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -558,18 +558,18 @@
       "title": "OpenProject API Documentation",
       "slug": "openproject-api-documentation",
       "target_keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security"
+        "support",
+        "per",
+        "feature",
+        "sale"
       ],
-      "search_intent": "Informational (how-to/tutorial)",
+      "search_intent": "Informational (general)",
       "impact_score": 94,
       "difficulty": "medium",
       "outline": {
@@ -585,10 +585,10 @@
       },
       "media_assets": [
         "Screenshot: API documentation interface",
-        "Optimized featured image with enterprise",
-        "Infographic: enterprise quick reference",
-        "Chart: enterprise performance metrics",
-        "Video embed: enterprise demonstration"
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -598,7 +598,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2025-12-21",
+      "publish_priority": "2025-12-26",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 48 keyword opportunities. Missing 48 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -610,24 +610,24 @@
       "title": "Wiki - OpenProject",
       "slug": "wiki-openproject",
       "target_keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security"
+        "support",
+        "per",
+        "feature",
+        "sale"
       ],
-      "search_intent": "Informational (how-to/tutorial)",
+      "search_intent": "Informational (general)",
       "impact_score": 94,
       "difficulty": "medium",
       "outline": {
         "H1": "Wiki - OpenProject",
         "H2": [
-          "Introduction to Workflow",
+          "Introduction to Integration",
           "Key Features and Benefits",
           "Implementation Guide",
           "Use Cases and Examples",
@@ -636,11 +636,11 @@
         ]
       },
       "media_assets": [
-        "Hero image: workflow overview",
-        "Optimized featured image with enterprise",
-        "Infographic: enterprise quick reference",
-        "Chart: enterprise performance metrics",
-        "Video embed: enterprise demonstration"
+        "Hero image: board overview",
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -650,9 +650,165 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2025-12-28",
+      "publish_priority": "2026-01-02",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 48 keyword opportunities. Missing 48 high-value competitor keywords",
+      "gap_addressed": "under-optimized",
+      "estimated_duration_days": 14,
+      "keyword_count": 10,
+      "difficulty_numeric": 2
+    },
+    {
+      "title": "Forums - OpenProject",
+      "slug": "forums-openproject",
+      "target_keywords": [
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
+        "goal",
+        "support",
+        "per",
+        "feature",
+        "sale"
+      ],
+      "search_intent": "Informational (general)",
+      "impact_score": 93,
+      "difficulty": "medium",
+      "outline": {
+        "H1": "Forums - OpenProject",
+        "H2": [
+          "Introduction to Integration",
+          "Key Features and Benefits",
+          "Implementation Guide",
+          "Use Cases and Examples",
+          "Best Practices",
+          "Next Steps"
+        ]
+      },
+      "media_assets": [
+        "Hero image: board overview",
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
+      ],
+      "cta": "Download Our Free Guide",
+      "resources_needed": [
+        "Content writer/strategist",
+        "SME consultation",
+        "Editor/proofreader",
+        "Graphic designer",
+        "SEO review"
+      ],
+      "publish_priority": "2026-01-09",
+      "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
+      "competitive_advantage": "Addresses under-optimized gap with 47 keyword opportunities. Missing 47 high-value competitor keywords",
+      "gap_addressed": "under-optimized",
+      "estimated_duration_days": 14,
+      "keyword_count": 10,
+      "difficulty_numeric": 2
+    },
+    {
+      "title": "Rich text (WYSIWYG) editor in OpenProject - OpenProject",
+      "slug": "rich-text-wysiwyg-editor-in-openproject-openproject",
+      "target_keywords": [
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
+        "goal",
+        "support",
+        "per",
+        "feature",
+        "sale"
+      ],
+      "search_intent": "Informational (general)",
+      "impact_score": 93,
+      "difficulty": "medium",
+      "outline": {
+        "H1": "Rich text (WYSIWYG) editor in OpenProject - OpenProject",
+        "H2": [
+          "Introduction to Integration",
+          "Key Features and Benefits",
+          "Implementation Guide",
+          "Use Cases and Examples",
+          "Best Practices",
+          "Next Steps"
+        ]
+      },
+      "media_assets": [
+        "Hero image: board overview",
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
+      ],
+      "cta": "Download Our Free Guide",
+      "resources_needed": [
+        "Content writer/strategist",
+        "SME consultation",
+        "Editor/proofreader",
+        "Graphic designer",
+        "SEO review"
+      ],
+      "publish_priority": "2026-01-16",
+      "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
+      "competitive_advantage": "Addresses under-optimized gap with 47 keyword opportunities. Missing 47 high-value competitor keywords",
+      "gap_addressed": "under-optimized",
+      "estimated_duration_days": 14,
+      "keyword_count": 10,
+      "difficulty_numeric": 2
+    },
+    {
+      "title": "Agile project management - why and in what case?",
+      "slug": "agile-project-management-why-and-in-what-case",
+      "target_keywords": [
+        "board",
+        "data",
+        "integration",
+        "user",
+        "goal",
+        "support",
+        "per",
+        "feature",
+        "sale",
+        "workflow"
+      ],
+      "search_intent": "Informational (conceptual)",
+      "impact_score": 92,
+      "difficulty": "medium",
+      "outline": {
+        "H1": "Agile project management - why and in what case?",
+        "H2": [
+          "What is Agile Project Management",
+          "When to Use Agile Methods",
+          "Agile Features in OpenProject",
+          "Setting Up Agile Boards",
+          "Sprint Planning and Execution",
+          "Measuring Agile Success"
+        ]
+      },
+      "media_assets": [
+        "Screenshot: Agile board with tasks",
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
+      ],
+      "cta": "Download Our Free Guide",
+      "resources_needed": [
+        "Content writer/strategist",
+        "SME consultation",
+        "Editor/proofreader",
+        "Graphic designer",
+        "SEO review"
+      ],
+      "publish_priority": "2026-01-23",
+      "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
+      "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
       "gap_addressed": "under-optimized",
       "estimated_duration_days": 14,
       "keyword_count": 10,
@@ -662,16 +818,16 @@
       "title": "OpenProject Community News Review: Continuous Development and Open-Source Engagement",
       "slug": "openproject-community-news-review-continuous-development",
       "target_keywords": [
-        "guide",
-        "automation",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security",
-        "tool"
+        "support",
+        "per",
+        "sale",
+        "workflow"
       ],
       "search_intent": "Commercial (comparison/research)",
       "impact_score": 92,
@@ -689,10 +845,10 @@
       },
       "media_assets": [
         "Photo: Team collaboration or customer logos",
-        "Optimized featured image with guide",
-        "Infographic: guide quick reference",
-        "Chart: guide performance metrics",
-        "Video embed: guide demonstration"
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -702,7 +858,59 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-01-04",
+      "publish_priority": "2026-01-30",
+      "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
+      "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
+      "gap_addressed": "under-optimized",
+      "estimated_duration_days": 14,
+      "keyword_count": 10,
+      "difficulty_numeric": 2
+    },
+    {
+      "title": "Budgets - OpenProject",
+      "slug": "budgets-openproject",
+      "target_keywords": [
+        "board",
+        "data",
+        "integration",
+        "management",
+        "goal",
+        "support",
+        "per",
+        "feature",
+        "sale",
+        "workflow"
+      ],
+      "search_intent": "Informational (general)",
+      "impact_score": 92,
+      "difficulty": "medium",
+      "outline": {
+        "H1": "Budgets - OpenProject",
+        "H2": [
+          "Introduction to Integration",
+          "Key Features and Benefits",
+          "Implementation Guide",
+          "Use Cases and Examples",
+          "Best Practices",
+          "Next Steps"
+        ]
+      },
+      "media_assets": [
+        "Hero image: board overview",
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
+      ],
+      "cta": "Download Our Free Guide",
+      "resources_needed": [
+        "Content writer/strategist",
+        "SME consultation",
+        "Editor/proofreader",
+        "Graphic designer",
+        "SEO review"
+      ],
+      "publish_priority": "2026-02-06",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -714,24 +922,24 @@
       "title": "Gantt charts - OpenProject",
       "slug": "gantt-charts-openproject",
       "target_keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security"
+        "support",
+        "per",
+        "feature",
+        "sale"
       ],
-      "search_intent": "Informational (how-to/tutorial)",
+      "search_intent": "Informational (general)",
       "impact_score": 92,
       "difficulty": "medium",
       "outline": {
         "H1": "Gantt charts - OpenProject",
         "H2": [
-          "Introduction to Workflow",
+          "Introduction to Integration",
           "Key Features and Benefits",
           "Implementation Guide",
           "Use Cases and Examples",
@@ -741,10 +949,10 @@
       },
       "media_assets": [
         "Screenshot: Gantt chart example",
-        "Optimized featured image with enterprise",
-        "Infographic: enterprise quick reference",
-        "Chart: enterprise performance metrics",
-        "Video embed: enterprise demonstration"
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -754,7 +962,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-01-11",
+      "publish_priority": "2026-02-13",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -763,92 +971,40 @@
       "difficulty_numeric": 2
     },
     {
-      "title": "Free Download and Install - OpenProject",
-      "slug": "free-download-and-install-openproject",
+      "title": "Project News - OpenProject",
+      "slug": "project-news-openproject",
       "target_keywords": [
-        "guide",
-        "automation",
-        "workflow",
+        "board",
+        "data",
+        "integration",
+        "management",
+        "user",
         "goal",
-        "visual",
-        "productivity",
-        "team",
-        "security",
-        "tool",
-        "support"
-      ],
-      "search_intent": "Navigational (download/access)",
-      "impact_score": 92,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Free Download and Install - OpenProject",
-        "H2": [
-          "Introduction to Workflow",
-          "Key Features and Benefits",
-          "Implementation Guide",
-          "Use Cases and Examples",
-          "Best Practices",
-          "Next Steps"
-        ]
-      },
-      "media_assets": [
-        "Hero image: workflow overview",
-        "Optimized featured image with guide",
-        "Infographic: guide quick reference",
-        "Chart: guide performance metrics",
-        "Video embed: guide demonstration"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-01-18",
-      "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
-      "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
-      "gap_addressed": "under-optimized",
-      "estimated_duration_days": 14,
-      "keyword_count": 10,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "Release Notes - OpenProject",
-      "slug": "release-notes-openproject",
-      "target_keywords": [
-        "enterprise",
-        "automation",
-        "workflow",
-        "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security",
-        "tool"
+        "support",
+        "per",
+        "sale",
+        "workflow"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 92,
       "difficulty": "medium",
       "outline": {
-        "H1": "Release Notes - OpenProject",
+        "H1": "Project News - OpenProject",
         "H2": [
-          "Introduction to Workflow",
-          "Key Features and Benefits",
-          "Implementation Guide",
-          "Use Cases and Examples",
-          "Best Practices",
-          "Next Steps"
+          "Latest Updates and Announcements",
+          "Feature Highlights",
+          "Community Contributions",
+          "Tips and Tricks",
+          "Customer Success Stories",
+          "Upcoming Features"
         ]
       },
       "media_assets": [
-        "Hero image: workflow overview",
-        "Optimized featured image with enterprise",
-        "Infographic: enterprise quick reference",
-        "Chart: enterprise performance metrics",
-        "Video embed: enterprise demonstration"
+        "Hero image: board overview",
+        "Optimized featured image with board",
+        "Infographic: board quick reference",
+        "Chart: board performance metrics",
+        "Video embed: board demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -858,165 +1014,9 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-01-25",
+      "publish_priority": "2026-02-20",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
-      "gap_addressed": "under-optimized",
-      "estimated_duration_days": 14,
-      "keyword_count": 10,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "OpenProject Security and Data Privacy Review",
-      "slug": "openproject-security-and-data-privacy-review",
-      "target_keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
-        "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "tool"
-      ],
-      "search_intent": "Commercial (comparison/research)",
-      "impact_score": 92,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "OpenProject Security and Data Privacy Review",
-        "H2": [
-          "Introduction to Workflow",
-          "Key Features and Benefits",
-          "Implementation Guide",
-          "Use Cases and Examples",
-          "Best Practices",
-          "Next Steps"
-        ]
-      },
-      "media_assets": [
-        "Hero image: workflow overview",
-        "Optimized featured image with enterprise",
-        "Infographic: enterprise quick reference",
-        "Chart: enterprise performance metrics",
-        "Video embed: enterprise demonstration"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-02-01",
-      "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
-      "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
-      "gap_addressed": "under-optimized",
-      "estimated_duration_days": 14,
-      "keyword_count": 10,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "Open Source Alternative for Project Management Software ...",
-      "slug": "open-source-alternative-for-project-management-software",
-      "target_keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
-        "goal",
-        "visual",
-        "productivity",
-        "team",
-        "security",
-        "tool"
-      ],
-      "search_intent": "Commercial (comparison/research)",
-      "impact_score": 91,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Open Source Alternative for Project Management Software ...",
-        "H2": [
-          "Introduction to Workflow",
-          "Key Features and Benefits",
-          "Implementation Guide",
-          "Use Cases and Examples",
-          "Best Practices",
-          "Next Steps"
-        ]
-      },
-      "media_assets": [
-        "Hero image: workflow overview",
-        "Optimized featured image with enterprise",
-        "Infographic: enterprise quick reference",
-        "Chart: enterprise performance metrics",
-        "Video embed: enterprise demonstration"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-02-08",
-      "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
-      "competitive_advantage": "Addresses under-optimized gap with 45 keyword opportunities. Missing 45 high-value competitor keywords",
-      "gap_addressed": "under-optimized",
-      "estimated_duration_days": 14,
-      "keyword_count": 10,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "Agile project management - why and in what case?",
-      "slug": "agile-project-management-why-and-in-what-case",
-      "target_keywords": [
-        "enterprise",
-        "automation",
-        "guide",
-        "workflow",
-        "goal",
-        "visual",
-        "productivity",
-        "free",
-        "team",
-        "security"
-      ],
-      "search_intent": "Informational (how-to/tutorial)",
-      "impact_score": 91,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Agile project management - why and in what case?",
-        "H2": [
-          "What is Agile Project Management",
-          "When to Use Agile Methods",
-          "Agile Features in OpenProject",
-          "Setting Up Agile Boards",
-          "Sprint Planning and Execution",
-          "Measuring Agile Success"
-        ]
-      },
-      "media_assets": [
-        "Screenshot: Agile board with tasks",
-        "Optimized featured image with enterprise",
-        "Infographic: enterprise quick reference",
-        "Chart: enterprise performance metrics",
-        "Video embed: enterprise demonstration"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-02-15",
-      "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
-      "competitive_advantage": "Addresses under-optimized gap with 45 keyword opportunities. Missing 45 high-value competitor keywords",
       "gap_addressed": "under-optimized",
       "estimated_duration_days": 14,
       "keyword_count": 10,
@@ -1061,7 +1061,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-03-03",
+      "publish_priority": "2026-03-08",
       "traffic_impact": "Medium impact: Estimated 200-800 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 4 competitor documents. Your content (113 words avg) is thinner than competitors (278 words avg)",
       "gap_addressed": "thin",
@@ -1107,7 +1107,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-03-10",
+      "publish_priority": "2026-03-15",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 3 competitor documents. Your content (280 words avg) is thinner than competitors (517 words avg)",
       "gap_addressed": "thin",
@@ -1153,7 +1153,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-03-17",
+      "publish_priority": "2026-03-22",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 3 competitor documents. Your content (113 words avg) is thinner than competitors (295 words avg)",
       "gap_addressed": "thin",
@@ -1197,7 +1197,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-03-24",
+      "publish_priority": "2026-03-29",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 1 competitor documents. Your content (95 words avg) is thinner than competitors (970 words avg)",
       "gap_addressed": "thin",
@@ -1242,59 +1242,13 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-03-31",
+      "publish_priority": "2026-04-05",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 2 competitor documents. Your content (213 words avg) is thinner than competitors (357 words avg)",
       "gap_addressed": "thin",
       "estimated_duration_days": 7,
       "keyword_count": 3,
       "difficulty_numeric": 1
-    },
-    {
-      "title": "Content about Trello",
-      "slug": "content-about-trello",
-      "target_keywords": [
-        "trello"
-      ],
-      "search_intent": "Informational (general)",
-      "impact_score": 21,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Content about Trello",
-        "H2": [
-          "What is Content?",
-          "Why Content Matters for Project Management",
-          "Key Benefits of Content",
-          "How to Implement Content",
-          "Best Practices for Content",
-          "Content vs Alternatives",
-          "Common Challenges and Solutions",
-          "Getting Started with Content"
-        ]
-      },
-      "media_assets": [
-        "Hero image: trello overview",
-        "Infographic: Trello benefits overview",
-        "Diagram: How trello works",
-        "Video tutorial: Getting started with trello",
-        "Screenshot: trello interface/dashboard",
-        "Comparison chart: trello vs alternatives"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-04-22",
-      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
-      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
-      "gap_addressed": "missing",
-      "estimated_duration_days": 14,
-      "keyword_count": 1,
-      "difficulty_numeric": 2
     },
     {
       "title": "Content about Asana",
@@ -1334,7 +1288,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-04-29",
+      "publish_priority": "2026-04-27",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1343,34 +1297,34 @@
       "difficulty_numeric": 2
     },
     {
-      "title": "Content about Workflow",
-      "slug": "content-about-workflow",
+      "title": "Content about Trello",
+      "slug": "content-about-trello",
       "target_keywords": [
-        "workflow"
+        "trello"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 21,
       "difficulty": "medium",
       "outline": {
-        "H1": "Content about Workflow",
+        "H1": "Content about Trello",
         "H2": [
-          "What is Workflow?",
-          "Why Workflow Matters for Project Management",
-          "Key Benefits of Workflow",
-          "How to Implement Workflow",
-          "Best Practices for Workflow",
-          "Workflow vs Alternatives",
+          "What is Content?",
+          "Why Content Matters for Project Management",
+          "Key Benefits of Content",
+          "How to Implement Content",
+          "Best Practices for Content",
+          "Content vs Alternatives",
           "Common Challenges and Solutions",
-          "Getting Started with Workflow"
+          "Getting Started with Content"
         ]
       },
       "media_assets": [
-        "Hero image: workflow overview",
-        "Infographic: Workflow benefits overview",
-        "Diagram: How workflow works",
-        "Video tutorial: Getting started with workflow",
-        "Screenshot: workflow interface/dashboard",
-        "Comparison chart: workflow vs alternatives"
+        "Hero image: trello overview",
+        "Infographic: Trello benefits overview",
+        "Diagram: How trello works",
+        "Video tutorial: Getting started with trello",
+        "Screenshot: trello interface/dashboard",
+        "Comparison chart: trello vs alternatives"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -1380,7 +1334,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-05-06",
+      "publish_priority": "2026-05-04",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1426,7 +1380,53 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-05-13",
+      "publish_priority": "2026-05-11",
+      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
+      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
+      "gap_addressed": "missing",
+      "estimated_duration_days": 14,
+      "keyword_count": 1,
+      "difficulty_numeric": 2
+    },
+    {
+      "title": "Content about Workflow",
+      "slug": "content-about-workflow",
+      "target_keywords": [
+        "workflow"
+      ],
+      "search_intent": "Informational (general)",
+      "impact_score": 21,
+      "difficulty": "medium",
+      "outline": {
+        "H1": "Content about Workflow",
+        "H2": [
+          "What is Workflow?",
+          "Why Workflow Matters for Project Management",
+          "Key Benefits of Workflow",
+          "How to Implement Workflow",
+          "Best Practices for Workflow",
+          "Workflow vs Alternatives",
+          "Common Challenges and Solutions",
+          "Getting Started with Workflow"
+        ]
+      },
+      "media_assets": [
+        "Hero image: workflow overview",
+        "Infographic: Workflow benefits overview",
+        "Diagram: How workflow works",
+        "Video tutorial: Getting started with workflow",
+        "Screenshot: workflow interface/dashboard",
+        "Comparison chart: workflow vs alternatives"
+      ],
+      "cta": "Download Our Free Guide",
+      "resources_needed": [
+        "Content writer/strategist",
+        "SME consultation",
+        "Editor/proofreader",
+        "Graphic designer",
+        "SEO review"
+      ],
+      "publish_priority": "2026-05-18",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1472,7 +1472,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-05-20",
+      "publish_priority": "2026-05-25",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1518,7 +1518,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-05-27",
+      "publish_priority": "2026-06-01",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1564,99 +1564,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-06-03",
-      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
-      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
-      "gap_addressed": "missing",
-      "estimated_duration_days": 14,
-      "keyword_count": 1,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "Content about Platform",
-      "slug": "content-about-platform",
-      "target_keywords": [
-        "platform"
-      ],
-      "search_intent": "Informational (general)",
-      "impact_score": 21,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Content about Platform",
-        "H2": [
-          "What is Content?",
-          "Why Content Matters for Project Management",
-          "Key Benefits of Content",
-          "How to Implement Content",
-          "Best Practices for Content",
-          "Content vs Alternatives",
-          "Common Challenges and Solutions",
-          "Getting Started with Content"
-        ]
-      },
-      "media_assets": [
-        "Hero image: platform overview",
-        "Infographic: Platform benefits overview",
-        "Diagram: How platform works",
-        "Video tutorial: Getting started with platform",
-        "Screenshot: platform interface/dashboard",
-        "Comparison chart: platform vs alternatives"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-06-10",
-      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
-      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
-      "gap_addressed": "missing",
-      "estimated_duration_days": 14,
-      "keyword_count": 1,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "Content about Integration",
-      "slug": "content-about-integration",
-      "target_keywords": [
-        "integration"
-      ],
-      "search_intent": "Informational (general)",
-      "impact_score": 21,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Content about Integration",
-        "H2": [
-          "What is Integration?",
-          "Why Integration Matters for Project Management",
-          "Key Benefits of Integration",
-          "How to Implement Integration",
-          "Best Practices for Integration",
-          "Integration vs Alternatives",
-          "Common Challenges and Solutions",
-          "Getting Started with Integration"
-        ]
-      },
-      "media_assets": [
-        "Hero image: integration overview",
-        "Infographic: Integration benefits overview",
-        "Diagram: How integration works",
-        "Video tutorial: Getting started with integration",
-        "Screenshot: integration interface/dashboard",
-        "Comparison chart: integration vs alternatives"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-06-17",
+      "publish_priority": "2026-06-08",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1702,7 +1610,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-06-24",
+      "publish_priority": "2026-06-15",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1711,16 +1619,62 @@
       "difficulty_numeric": 2
     },
     {
-      "title": "Content about Get",
-      "slug": "content-about-get",
+      "title": "Content about Integration",
+      "slug": "content-about-integration",
       "target_keywords": [
-        "get"
+        "integration"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 21,
       "difficulty": "medium",
       "outline": {
-        "H1": "Content about Get",
+        "H1": "Content about Integration",
+        "H2": [
+          "What is Integration?",
+          "Why Integration Matters for Project Management",
+          "Key Benefits of Integration",
+          "How to Implement Integration",
+          "Best Practices for Integration",
+          "Integration vs Alternatives",
+          "Common Challenges and Solutions",
+          "Getting Started with Integration"
+        ]
+      },
+      "media_assets": [
+        "Hero image: integration overview",
+        "Infographic: Integration benefits overview",
+        "Diagram: How integration works",
+        "Video tutorial: Getting started with integration",
+        "Screenshot: integration interface/dashboard",
+        "Comparison chart: integration vs alternatives"
+      ],
+      "cta": "Download Our Free Guide",
+      "resources_needed": [
+        "Content writer/strategist",
+        "SME consultation",
+        "Editor/proofreader",
+        "Graphic designer",
+        "SEO review"
+      ],
+      "publish_priority": "2026-06-22",
+      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
+      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
+      "gap_addressed": "missing",
+      "estimated_duration_days": 14,
+      "keyword_count": 1,
+      "difficulty_numeric": 2
+    },
+    {
+      "title": "Content about Platform",
+      "slug": "content-about-platform",
+      "target_keywords": [
+        "platform"
+      ],
+      "search_intent": "Informational (general)",
+      "impact_score": 21,
+      "difficulty": "medium",
+      "outline": {
+        "H1": "Content about Platform",
         "H2": [
           "What is Content?",
           "Why Content Matters for Project Management",
@@ -1733,12 +1687,12 @@
         ]
       },
       "media_assets": [
-        "Hero image: get overview",
-        "Infographic: Get benefits overview",
-        "Diagram: How get works",
-        "Video tutorial: Getting started with get",
-        "Screenshot: get interface/dashboard",
-        "Comparison chart: get vs alternatives"
+        "Hero image: platform overview",
+        "Infographic: Platform benefits overview",
+        "Diagram: How platform works",
+        "Video tutorial: Getting started with platform",
+        "Screenshot: platform interface/dashboard",
+        "Comparison chart: platform vs alternatives"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -1748,191 +1702,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-07-01",
-      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
-      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
-      "gap_addressed": "missing",
-      "estimated_duration_days": 14,
-      "keyword_count": 1,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "Content about Like",
-      "slug": "content-about-like",
-      "target_keywords": [
-        "like"
-      ],
-      "search_intent": "Informational (general)",
-      "impact_score": 21,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Content about Like",
-        "H2": [
-          "What is Content?",
-          "Why Content Matters for Project Management",
-          "Key Benefits of Content",
-          "How to Implement Content",
-          "Best Practices for Content",
-          "Content vs Alternatives",
-          "Common Challenges and Solutions",
-          "Getting Started with Content"
-        ]
-      },
-      "media_assets": [
-        "Hero image: like overview",
-        "Infographic: Like benefits overview",
-        "Diagram: How like works",
-        "Video tutorial: Getting started with like",
-        "Screenshot: like interface/dashboard",
-        "Comparison chart: like vs alternatives"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-07-08",
-      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
-      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
-      "gap_addressed": "missing",
-      "estimated_duration_days": 14,
-      "keyword_count": 1,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "Content about Plan",
-      "slug": "content-about-plan",
-      "target_keywords": [
-        "plan"
-      ],
-      "search_intent": "Informational (general)",
-      "impact_score": 21,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Content about Plan",
-        "H2": [
-          "What is Content?",
-          "Why Content Matters for Project Management",
-          "Key Benefits of Content",
-          "How to Implement Content",
-          "Best Practices for Content",
-          "Content vs Alternatives",
-          "Common Challenges and Solutions",
-          "Getting Started with Content"
-        ]
-      },
-      "media_assets": [
-        "Hero image: plan overview",
-        "Infographic: Plan benefits overview",
-        "Diagram: How plan works",
-        "Video tutorial: Getting started with plan",
-        "Screenshot: plan interface/dashboard",
-        "Comparison chart: plan vs alternatives"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-07-15",
-      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
-      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
-      "gap_addressed": "missing",
-      "estimated_duration_days": 14,
-      "keyword_count": 1,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "Content about Productivity",
-      "slug": "content-about-productivity",
-      "target_keywords": [
-        "productivity"
-      ],
-      "search_intent": "Informational (general)",
-      "impact_score": 21,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Content about Productivity",
-        "H2": [
-          "What is Content?",
-          "Why Content Matters for Project Management",
-          "Key Benefits of Content",
-          "How to Implement Content",
-          "Best Practices for Content",
-          "Content vs Alternatives",
-          "Common Challenges and Solutions",
-          "Getting Started with Content"
-        ]
-      },
-      "media_assets": [
-        "Hero image: productivity overview",
-        "Infographic: Productivity benefits overview",
-        "Diagram: How productivity works",
-        "Video tutorial: Getting started with productivity",
-        "Screenshot: productivity interface/dashboard",
-        "Comparison chart: productivity vs alternatives"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-07-22",
-      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
-      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
-      "gap_addressed": "missing",
-      "estimated_duration_days": 14,
-      "keyword_count": 1,
-      "difficulty_numeric": 2
-    },
-    {
-      "title": "Content about Communication",
-      "slug": "content-about-communication",
-      "target_keywords": [
-        "communication"
-      ],
-      "search_intent": "Informational (general)",
-      "impact_score": 21,
-      "difficulty": "medium",
-      "outline": {
-        "H1": "Content about Communication",
-        "H2": [
-          "What is Content?",
-          "Why Content Matters for Project Management",
-          "Key Benefits of Content",
-          "How to Implement Content",
-          "Best Practices for Content",
-          "Content vs Alternatives",
-          "Common Challenges and Solutions",
-          "Getting Started with Content"
-        ]
-      },
-      "media_assets": [
-        "Hero image: communication overview",
-        "Infographic: Communication benefits overview",
-        "Diagram: How communication works",
-        "Video tutorial: Getting started with communication",
-        "Screenshot: communication interface/dashboard",
-        "Comparison chart: communication vs alternatives"
-      ],
-      "cta": "Download Our Free Guide",
-      "resources_needed": [
-        "Content writer/strategist",
-        "SME consultation",
-        "Editor/proofreader",
-        "Graphic designer",
-        "SEO review"
-      ],
-      "publish_priority": "2026-07-29",
+      "publish_priority": "2026-06-29",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1978,7 +1748,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-08-05",
+      "publish_priority": "2026-07-06",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1987,48 +1757,188 @@
       "difficulty_numeric": 2
     },
     {
-      "title": "Expand coverage of Enterprise",
-      "slug": "expand-coverage-of-enterprise",
+      "title": "Content about Plan",
+      "slug": "content-about-plan",
       "target_keywords": [
-        "enterprise",
-        "trello"
+        "plan"
       ],
       "search_intent": "Informational (general)",
-      "impact_score": 20,
-      "difficulty": "low",
+      "impact_score": 21,
+      "difficulty": "medium",
       "outline": {
-        "H1": "Expand coverage of Enterprise",
+        "H1": "Content about Plan",
         "H2": [
-          "Understanding Expand",
-          "Advanced Expand Features",
-          "Real-World Expand Use Cases",
-          "Expert Tips for Expand",
-          "Measuring Expand Success",
-          "Tools and Resources"
+          "What is Content?",
+          "Why Content Matters for Project Management",
+          "Key Benefits of Content",
+          "How to Implement Content",
+          "Best Practices for Content",
+          "Content vs Alternatives",
+          "Common Challenges and Solutions",
+          "Getting Started with Content"
         ]
       },
       "media_assets": [
-        "Hero image: enterprise overview",
-        "Detailed infographic: enterprise process flow",
-        "Video: Advanced enterprise techniques",
-        "Multiple screenshots: Step-by-step guide",
-        "Data visualization: enterprise statistics",
-        "Expert interview video about enterprise"
+        "Hero image: plan overview",
+        "Infographic: Plan benefits overview",
+        "Diagram: How plan works",
+        "Video tutorial: Getting started with plan",
+        "Screenshot: plan interface/dashboard",
+        "Comparison chart: plan vs alternatives"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
         "Content writer/strategist",
+        "SME consultation",
         "Editor/proofreader",
-        "Basic graphics/stock images",
-        "Research analyst for competitive analysis"
+        "Graphic designer",
+        "SEO review"
       ],
-      "publish_priority": "2026-07-28",
+      "publish_priority": "2026-07-13",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
-      "competitive_advantage": "Addresses thin gap with 1 competitor documents. Your content (341 words avg) is thinner than competitors (534 words avg)",
-      "gap_addressed": "thin",
-      "estimated_duration_days": 7,
-      "keyword_count": 2,
-      "difficulty_numeric": 1
+      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
+      "gap_addressed": "missing",
+      "estimated_duration_days": 14,
+      "keyword_count": 1,
+      "difficulty_numeric": 2
+    },
+    {
+      "title": "Content about Productivity",
+      "slug": "content-about-productivity",
+      "target_keywords": [
+        "productivity"
+      ],
+      "search_intent": "Informational (general)",
+      "impact_score": 21,
+      "difficulty": "medium",
+      "outline": {
+        "H1": "Content about Productivity",
+        "H2": [
+          "What is Content?",
+          "Why Content Matters for Project Management",
+          "Key Benefits of Content",
+          "How to Implement Content",
+          "Best Practices for Content",
+          "Content vs Alternatives",
+          "Common Challenges and Solutions",
+          "Getting Started with Content"
+        ]
+      },
+      "media_assets": [
+        "Hero image: productivity overview",
+        "Infographic: Productivity benefits overview",
+        "Diagram: How productivity works",
+        "Video tutorial: Getting started with productivity",
+        "Screenshot: productivity interface/dashboard",
+        "Comparison chart: productivity vs alternatives"
+      ],
+      "cta": "Download Our Free Guide",
+      "resources_needed": [
+        "Content writer/strategist",
+        "SME consultation",
+        "Editor/proofreader",
+        "Graphic designer",
+        "SEO review"
+      ],
+      "publish_priority": "2026-07-20",
+      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
+      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
+      "gap_addressed": "missing",
+      "estimated_duration_days": 14,
+      "keyword_count": 1,
+      "difficulty_numeric": 2
+    },
+    {
+      "title": "Content about Goal",
+      "slug": "content-about-goal",
+      "target_keywords": [
+        "goal"
+      ],
+      "search_intent": "Informational (general)",
+      "impact_score": 21,
+      "difficulty": "medium",
+      "outline": {
+        "H1": "Content about Goal",
+        "H2": [
+          "What is Content?",
+          "Why Content Matters for Project Management",
+          "Key Benefits of Content",
+          "How to Implement Content",
+          "Best Practices for Content",
+          "Content vs Alternatives",
+          "Common Challenges and Solutions",
+          "Getting Started with Content"
+        ]
+      },
+      "media_assets": [
+        "Hero image: goal overview",
+        "Infographic: Goal benefits overview",
+        "Diagram: How goal works",
+        "Video tutorial: Getting started with goal",
+        "Screenshot: goal interface/dashboard",
+        "Comparison chart: goal vs alternatives"
+      ],
+      "cta": "Download Our Free Guide",
+      "resources_needed": [
+        "Content writer/strategist",
+        "SME consultation",
+        "Editor/proofreader",
+        "Graphic designer",
+        "SEO review"
+      ],
+      "publish_priority": "2026-07-27",
+      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
+      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
+      "gap_addressed": "missing",
+      "estimated_duration_days": 14,
+      "keyword_count": 1,
+      "difficulty_numeric": 2
+    },
+    {
+      "title": "Content about Communication",
+      "slug": "content-about-communication",
+      "target_keywords": [
+        "communication"
+      ],
+      "search_intent": "Informational (general)",
+      "impact_score": 21,
+      "difficulty": "medium",
+      "outline": {
+        "H1": "Content about Communication",
+        "H2": [
+          "What is Content?",
+          "Why Content Matters for Project Management",
+          "Key Benefits of Content",
+          "How to Implement Content",
+          "Best Practices for Content",
+          "Content vs Alternatives",
+          "Common Challenges and Solutions",
+          "Getting Started with Content"
+        ]
+      },
+      "media_assets": [
+        "Hero image: communication overview",
+        "Infographic: Communication benefits overview",
+        "Diagram: How communication works",
+        "Video tutorial: Getting started with communication",
+        "Screenshot: communication interface/dashboard",
+        "Comparison chart: communication vs alternatives"
+      ],
+      "cta": "Download Our Free Guide",
+      "resources_needed": [
+        "Content writer/strategist",
+        "SME consultation",
+        "Editor/proofreader",
+        "Graphic designer",
+        "SEO review"
+      ],
+      "publish_priority": "2026-08-03",
+      "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
+      "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
+      "gap_addressed": "missing",
+      "estimated_duration_days": 14,
+      "keyword_count": 1,
+      "difficulty_numeric": 2
     },
     {
       "title": "Expand coverage of Blog",
@@ -2066,7 +1976,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-08-04",
+      "publish_priority": "2026-07-26",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 1 competitor documents. Your content (193 words avg) is thinner than competitors (338 words avg)",
       "gap_addressed": "thin",
@@ -2715,103 +2625,107 @@
     }
   },
   "model_metrics": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "accuracy": 1.0,
-    "f1_macro": 1.0,
-    "f1_micro": 1.0,
+    "precision": 0.9664031620553359,
+    "recall": 0.963032581453634,
+    "accuracy": 0.963855421686747,
+    "f1_macro": 0.9641482662469616,
+    "f1_micro": 0.963855421686747,
     "confusion_matrix": [
       [
-        23,
+        22,
         0,
         0,
         0
       ],
       [
-        0,
-        21,
+        1,
+        20,
         0,
         0
       ],
       [
         0,
-        0,
-        19,
+        1,
+        18,
         0
       ],
       [
         0,
+        1,
         0,
-        0,
-        21
+        20
       ]
     ],
-    "samples_evaluated": 84,
+    "samples_evaluated": 83,
     "false_positives": [],
-    "false_negatives": [],
+    "false_negatives": [
+      "Synthetic: Thin gap for mobile apps | True: thin, Predicted: missing",
+      "Synthetic: Outdated gap for data analysis | True: outdated, Predicted: thin",
+      "Synthetic: Under-Optimized gap for agile methodology | True: under-optimized, Predicted: thin"
+    ],
     "per_class_metrics": {
       "missing": {
-        "precision": 1.0,
+        "precision": 0.9565217391304348,
         "recall": 1.0,
-        "f1_score": 1.0,
-        "support": 23
+        "f1_score": 0.9777777777777777,
+        "support": 22
       },
       "thin": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1_score": 1.0,
+        "precision": 0.9090909090909091,
+        "recall": 0.9523809523809523,
+        "f1_score": 0.9302325581395349,
         "support": 21
       },
       "outdated": {
         "precision": 1.0,
-        "recall": 1.0,
-        "f1_score": 1.0,
+        "recall": 0.9473684210526315,
+        "f1_score": 0.972972972972973,
         "support": 19
       },
       "under-optimized": {
         "precision": 1.0,
-        "recall": 1.0,
-        "f1_score": 1.0,
+        "recall": 0.9523809523809523,
+        "f1_score": 0.975609756097561,
         "support": 21
       }
     },
     "classification_report": {
       "missing": {
-        "precision": 1.0,
+        "precision": 0.9565217391304348,
         "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 23.0
+        "f1-score": 0.9777777777777777,
+        "support": 22.0
       },
       "thin": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
+        "precision": 0.9090909090909091,
+        "recall": 0.9523809523809523,
+        "f1-score": 0.9302325581395349,
         "support": 21.0
       },
       "outdated": {
         "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
+        "recall": 0.9473684210526315,
+        "f1-score": 0.972972972972973,
         "support": 19.0
       },
       "under-optimized": {
         "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
+        "recall": 0.9523809523809523,
+        "f1-score": 0.975609756097561,
         "support": 21.0
       },
-      "accuracy": 1.0,
+      "accuracy": 0.963855421686747,
       "macro avg": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 84.0
+        "precision": 0.9664031620553359,
+        "recall": 0.963032581453634,
+        "f1-score": 0.9641482662469616,
+        "support": 83.0
       },
       "weighted avg": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 84.0
+        "precision": 0.9654745464069717,
+        "recall": 0.963855421686747,
+        "f1-score": 0.964099833693694,
+        "support": 83.0
       }
     }
   },
@@ -2819,7 +2733,7 @@
     {
       "slide_number": 1,
       "title": "Content Gap Analysis & Strategic Recommendations",
-      "content": "**Data-Driven Content Strategy for Competitive Advantage**\n\nComprehensive Analysis Report\n\nNovember 23, 2025\n\n---\n\n**Prepared by:** Content Intelligence Team  \n**Confidentiality:** Internal Use Only\n",
+      "content": "**Data-Driven Content Strategy for Competitive Advantage**\n\nComprehensive Analysis Report\n\nNovember 28, 2025\n\n---\n\n**Prepared by:** Content Intelligence Team  \n**Confidentiality:** Internal Use Only\n",
       "visual_elements": [
         "Company logo (top right)",
         "Professional gradient background",
@@ -2830,7 +2744,7 @@
     {
       "slide_number": 2,
       "title": "Executive Summary: Key Findings",
-      "content": "**Analysis Overview**\n\n✅ **33 strategic content gaps** identified across four categories  \n✅ **33 prioritized recommendations** ready for execution  \n✅ **100.0% model accuracy** in gap classification  \n✅ **90-day implementation roadmap** with resource allocation\n\n**Critical Insights:**\n\n🎯 **Quick Wins:** Multiple high-impact, low-difficulty opportunities for immediate ROI\n\n📊 **Coverage Gaps:** Competitors significantly outperform in key topic areas\n\n💡 **Traffic Opportunity:** Projected 15-30% organic growth within 6 months\n\n⚡ **Action Required:** Resource approval and content governance framework\n",
+      "content": "**Analysis Overview**\n\n✅ **31 strategic content gaps** identified across four categories  \n✅ **31 prioritized recommendations** ready for execution  \n✅ **96.4% model accuracy** in gap classification  \n✅ **90-day implementation roadmap** with resource allocation\n\n**Critical Insights:**\n\n🎯 **Quick Wins:** Multiple high-impact, low-difficulty opportunities for immediate ROI\n\n📊 **Coverage Gaps:** Competitors significantly outperform in key topic areas\n\n💡 **Traffic Opportunity:** Projected 15-30% organic growth within 6 months\n\n⚡ **Action Required:** Resource approval and content governance framework\n",
       "visual_elements": [
         "4-quadrant icon grid showing gap types",
         "Pie chart: gap distribution by category",
@@ -2852,18 +2766,18 @@
     {
       "slide_number": 4,
       "title": "Gap Distribution: Four Strategic Categories",
-      "content": "**Content Gap Categories**\n\n| Gap Type | Count | % of Total | Description |\n|----------|-------|------------|-------------|\n| 🔴 **Missing** | 16 | 48.5% | Topics competitors cover that we don't |\n| 🟡 **Thin** | 7 | 21.2% | Superficial coverage vs. competitors |\n| 🔵 **Outdated** | 0 | 0.0% | Content requiring freshness updates |\n| 🟣 **Under-Optimized** | 10 | 30.3% | Existing content lacking SEO optimization |\n\n**Total Gaps Identified:** 33\n\n**Key Insight:** Missing content represents largest opportunity area, indicating significant white space in our current coverage.\n",
+      "content": "**Content Gap Categories**\n\n| Gap Type | Count | % of Total | Description |\n|----------|-------|------------|-------------|\n| 🔴 **Missing** | 15 | 48.4% | Topics competitors cover that we don't |\n| 🟡 **Thin** | 6 | 19.4% | Superficial coverage vs. competitors |\n| 🔵 **Outdated** | 0 | 0.0% | Content requiring freshness updates |\n| 🟣 **Under-Optimized** | 10 | 32.3% | Existing content lacking SEO optimization |\n\n**Total Gaps Identified:** 31\n\n**Key Insight:** Missing content represents largest opportunity area, indicating significant white space in our current coverage.\n",
       "visual_elements": [
         "Donut chart: gap distribution by type with color coding",
         "Icon for each gap category",
         "Bar chart: gaps by difficulty level"
       ],
-      "speaker_notes": "Gap distribution shows 16 missing content pieces as primary opportunity. This represents competitive disadvantage we can address. Thin and outdated content are optimization opportunities."
+      "speaker_notes": "Gap distribution shows 15 missing content pieces as primary opportunity. This represents competitive disadvantage we can address. Thin and outdated content are optimization opportunities."
     },
     {
       "slide_number": 5,
       "title": "Top 5 Content Opportunities: Quick Wins & Strategic Plays",
-      "content": "**Top 5 Priority Content Opportunities**\n\n\n**1. OpenProject 12.0.10**\n- Impact: 95/100 | Difficulty: Medium | Target: 2025-12-14\n\n**2. OpenProject API Documentation**\n- Impact: 94/100 | Difficulty: Medium | Target: 2025-12-21\n\n**3. Wiki - OpenProject**\n- Impact: 94/100 | Difficulty: Medium | Target: 2025-12-28\n\n**4. OpenProject Community News Review: Continuous Development and Open-Source Engagement**\n- Impact: 92/100 | Difficulty: Medium | Target: 2026-01-04\n\n**5. Gantt charts - OpenProject**\n- Impact: 92/100 | Difficulty: Medium | Target: 2026-01-11\n\n\n**Selection Criteria:**\n- Highest impact scores (70-100 range)\n- Balanced difficulty levels for achievable execution\n- Strategic coverage across gap types\n- Optimal publication timeline for 90-day window\n\n**Expected Outcomes:**\n- Combined traffic potential: 3,000-8,000 monthly visits\n- Keyword ranking improvements: 50+ new top-10 positions\n- Competitive parity in critical topic areas\n",
+      "content": "**Top 5 Priority Content Opportunities**\n\n\n**1. OpenProject 12.0.10**\n- Impact: 95/100 | Difficulty: Medium | Target: 2025-12-19\n\n**2. OpenProject API Documentation**\n- Impact: 94/100 | Difficulty: Medium | Target: 2025-12-26\n\n**3. Wiki - OpenProject**\n- Impact: 94/100 | Difficulty: Medium | Target: 2026-01-02\n\n**4. Forums - OpenProject**\n- Impact: 93/100 | Difficulty: Medium | Target: 2026-01-09\n\n**5. Rich text (WYSIWYG) editor in OpenProject - OpenProject**\n- Impact: 93/100 | Difficulty: Medium | Target: 2026-01-16\n\n\n**Selection Criteria:**\n- Highest impact scores (70-100 range)\n- Balanced difficulty levels for achievable execution\n- Strategic coverage across gap types\n- Optimal publication timeline for 90-day window\n\n**Expected Outcomes:**\n- Combined traffic potential: 3,000-8,000 monthly visits\n- Keyword ranking improvements: 50+ new top-10 positions\n- Competitive parity in critical topic areas\n",
       "visual_elements": [
         "Horizontal bar chart: impact scores for top 5",
         "Timeline showing target publication dates",
@@ -2886,19 +2800,19 @@
     {
       "slide_number": 7,
       "title": "Model Performance: Validated & Production-Ready",
-      "content": "**Machine Learning Model Validation**\n\n**Performance Metrics:**\n\n| Metric | Score | Status |\n|--------|-------|--------|\n| **Accuracy** | **100.0%** | ✅ EXCEEDS 80% threshold |\n| **Precision** | 100.0% | ✅ Strong |\n| **Recall** | 100.0% | ✅ Strong |\n| **F1 Score** | 100.0% | ✅ Balanced |\n\n**Evaluation Dataset:** 84 samples\n\n**Model Confidence:**\nThe classification model meets production standards, ensuring reliable gap categorization and prioritization. Error analysis shows expected confusion between semantically similar gap types.\n\n**Business Impact:**\nValidated model enables automated gap detection at scale, reducing manual analysis time by 70% while maintaining accuracy.\n",
+      "content": "**Machine Learning Model Validation**\n\n**Performance Metrics:**\n\n| Metric | Score | Status |\n|--------|-------|--------|\n| **Accuracy** | **96.4%** | ✅ EXCEEDS 80% threshold |\n| **Precision** | 96.6% | ✅ Strong |\n| **Recall** | 96.3% | ✅ Strong |\n| **F1 Score** | 96.4% | ✅ Balanced |\n\n**Evaluation Dataset:** 83 samples\n\n**Model Confidence:**\nThe classification model meets production standards, ensuring reliable gap categorization and prioritization. Error analysis shows expected confusion between semantically similar gap types.\n\n**Business Impact:**\nValidated model enables automated gap detection at scale, reducing manual analysis time by 70% while maintaining accuracy.\n",
       "visual_elements": [
         "Gauge chart showing accuracy vs. 80% threshold",
         "Confusion matrix heatmap (4x4 grid)",
         "Bar chart: precision, recall, F1 across gap types",
         "✅ checkmark icon for passing threshold"
       ],
-      "speaker_notes": "Model achieved 100.0% accuracy, exceeding required threshold. This validates our analytical approach. High precision means recommendations are reliable. Ready for production deployment."
+      "speaker_notes": "Model achieved 96.4% accuracy, exceeding required threshold. This validates our analytical approach. High precision means recommendations are reliable. Ready for production deployment."
     },
     {
       "slide_number": 8,
       "title": "90-Day Implementation Roadmap",
-      "content": "**90-Day Publication Roadmap**\n\n\n**December 2025** (3 pieces)\n- OpenProject 12.0.10 (Impact: 95)\n- OpenProject API Documentation (Impact: 94)\n- Wiki - OpenProject (Impact: 94)\n\n**January 2026** (4 pieces)\n- OpenProject Community News Review: Continuous Development and Open-Source Engagement (Impact: 92)\n- Gantt charts - OpenProject (Impact: 92)\n- Free Download and Install - OpenProject (Impact: 92)\n- ... and 1 more\n\n**February 2026** (3 pieces)\n- OpenProject Security and Data Privacy Review (Impact: 92)\n- Open Source Alternative for Project Management Software ... (Impact: 91)\n- Agile project management - why and in what case? (Impact: 91)\n\n\n**Milestone Checkpoints:**\n- ✅ **Week 4:** First 3-5 quick wins published\n- ✅ **Week 8:** Strategic content 50% complete\n- ✅ **Week 12:** Full 90-day roadmap execution complete\n- ✅ **Month 4:** Initial performance review and optimization\n\n**Success Metrics:**\n- On-time publication rate: Target 90%+\n- Quality assurance pass rate: Target 95%+\n- Early traffic signals: Track from week 2\n",
+      "content": "**90-Day Publication Roadmap**\n\n\n**December 2025** (2 pieces)\n- OpenProject 12.0.10 (Impact: 95)\n- OpenProject API Documentation (Impact: 94)\n\n**January 2026** (5 pieces)\n- Wiki - OpenProject (Impact: 94)\n- Forums - OpenProject (Impact: 93)\n- Rich text (WYSIWYG) editor in OpenProject - OpenProject (Impact: 93)\n- ... and 2 more\n\n**February 2026** (3 pieces)\n- Budgets - OpenProject (Impact: 92)\n- Gantt charts - OpenProject (Impact: 92)\n- Project News - OpenProject (Impact: 92)\n\n\n**Milestone Checkpoints:**\n- ✅ **Week 4:** First 3-5 quick wins published\n- ✅ **Week 8:** Strategic content 50% complete\n- ✅ **Week 12:** Full 90-day roadmap execution complete\n- ✅ **Month 4:** Initial performance review and optimization\n\n**Success Metrics:**\n- On-time publication rate: Target 90%+\n- Quality assurance pass rate: Target 95%+\n- Early traffic signals: Track from week 2\n",
       "visual_elements": [
         "Gantt chart: 12-week timeline with color-coded bars",
         "Milestone markers at weeks 4, 8, 12",
@@ -2946,10 +2860,10 @@
       "Trello",
       "Monday.com"
     ],
-    "recommendation_count": 33,
-    "gap_count": 33,
-    "expected_accuracy": ">=100%",
-    "report_generated": "2025-11-23",
+    "recommendation_count": 31,
+    "gap_count": 31,
+    "expected_accuracy": ">=96%",
+    "report_generated": "2025-11-28",
     "analysis_version": "1.0",
     "min_accuracy_threshold": "80%",
     "analysis_period_days": 90,

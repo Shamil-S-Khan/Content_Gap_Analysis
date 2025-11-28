@@ -171,7 +171,7 @@ class ContentScraper:
         
         return filepath
     
-    def scrape_openproject(self, max_pages=20):
+    def scrape_openproject(self, max_pages=50):
         """Scrape OpenProject website"""
         print("\n🔍 Scraping OpenProject...")
         
@@ -196,6 +196,36 @@ class ContentScraper:
             'https://www.openproject.org/cloud-edition/',
             'https://www.openproject.org/on-premises/',
             'https://www.openproject.org/enterprise/',
+            'https://www.openproject.org/docs/user-guide/backlogs-scrum/',
+            'https://www.openproject.org/docs/user-guide/budgets/',
+            'https://www.openproject.org/docs/user-guide/meetings/',
+            'https://www.openproject.org/docs/user-guide/calendar/',
+            'https://www.openproject.org/docs/user-guide/team-planner/',
+            'https://www.openproject.org/docs/system-admin-guide/',
+            'https://www.openproject.org/docs/api/',
+            'https://www.openproject.org/docs/development/',
+            'https://www.openproject.org/use-cases/',
+            'https://www.openproject.org/customers/',
+            'https://www.openproject.org/docs/user-guide/work-packages/',
+            'https://www.openproject.org/docs/user-guide/projects/',
+            'https://www.openproject.org/docs/release-notes/',
+            'https://www.openproject.org/legal/',
+            'https://www.openproject.org/help-and-support/',
+            'https://www.openproject.org/docs/user-guide/boards/',
+            'https://www.openproject.org/docs/user-guide/reporting/',
+            'https://www.openproject.org/docs/user-guide/notifications/',
+            'https://www.openproject.org/docs/user-guide/members/',
+            'https://www.openproject.org/docs/user-guide/repository/',
+            'https://www.openproject.org/docs/user-guide/forums/',
+            'https://www.openproject.org/docs/user-guide/news/',
+            'https://www.openproject.org/docs/enterprise-guide/',
+            'https://www.openproject.org/docs/cloud-guide/',
+            'https://www.openproject.org/docs/user-guide/documents/',
+            'https://www.openproject.org/docs/user-guide/home-page/',
+            'https://www.openproject.org/docs/user-guide/my-page/',
+            'https://www.openproject.org/docs/user-guide/wysiwyg/',
+            'https://www.openproject.org/docs/faq/',
+            'https://www.openproject.org/community/',
         ]
         
         scraped = 0
@@ -226,7 +256,7 @@ class ContentScraper:
         print(f"✅ OpenProject: {scraped} pages scraped")
         return scraped
     
-    def scrape_asana(self, max_pages=20):
+    def scrape_asana(self, max_pages=40):
         """Scrape Asana website"""
         print("\n🔍 Scraping Asana...")
         
@@ -251,6 +281,26 @@ class ContentScraper:
             'https://asana.com/enterprise',
             'https://asana.com/developers',
             'https://asana.com/apps',
+            'https://asana.com/resources/kanban-board',
+            'https://asana.com/resources/project-management-software',
+            'https://asana.com/resources/task-management',
+            'https://asana.com/resources/team-collaboration',
+            'https://asana.com/resources/workflow-management',
+            'https://asana.com/uses/marketing',
+            'https://asana.com/uses/operations',
+            'https://asana.com/uses/product-management',
+            'https://asana.com/case-studies',
+            'https://asana.com/integrations',
+            'https://asana.com/uses/engineering',
+            'https://asana.com/uses/it',
+            'https://asana.com/uses/sales',
+            'https://asana.com/uses/hr',
+            'https://asana.com/resources/project-timeline',
+            'https://asana.com/resources/burndown-chart',
+            'https://asana.com/resources/swot-analysis',
+            'https://asana.com/resources/project-charter',
+            'https://asana.com/resources/resource-management',
+            'https://asana.com/security',
         ]
         
         scraped = 0
@@ -281,7 +331,7 @@ class ContentScraper:
         print(f"✅ Asana: {scraped} pages scraped")
         return scraped
     
-    def scrape_trello(self, max_pages=15):
+    def scrape_trello(self, max_pages=35):
         """Scrape Trello website"""
         print("\n🔍 Scraping Trello...")
         
@@ -301,6 +351,26 @@ class ContentScraper:
             'https://blog.trello.com/',
             'https://trello.com/about',
             'https://trello.com/teams',
+            'https://trello.com/use-cases/marketing',
+            'https://trello.com/use-cases/sales',
+            'https://trello.com/use-cases/product-management',
+            'https://trello.com/use-cases/engineering',
+            'https://trello.com/use-cases/design',
+            'https://trello.com/automation',
+            'https://trello.com/views',
+            'https://trello.com/butler',
+            'https://trello.com/inspiration',
+            'https://trello.com/premium',
+            'https://trello.com/use-cases/hr',
+            'https://trello.com/use-cases/operations',
+            'https://trello.com/use-cases/it',
+            'https://trello.com/use-cases/education',
+            'https://trello.com/use-cases/personal-productivity',
+            'https://trello.com/standard',
+            'https://trello.com/features',
+            'https://trello.com/solutions',
+            'https://trello.com/security',
+            'https://trello.com/business-class',
         ]
         
         scraped = 0
@@ -331,7 +401,7 @@ class ContentScraper:
         print(f"✅ Trello: {scraped} pages scraped")
         return scraped
     
-    def scrape_monday(self, max_pages=15):
+    def scrape_monday(self, max_pages=35):
         """Scrape Monday.com website"""
         print("\n🔍 Scraping Monday.com...")
         
@@ -351,6 +421,26 @@ class ContentScraper:
             'https://monday.com/automations',
             'https://monday.com/gantt',
             'https://monday.com/kanban',
+            'https://monday.com/use-cases/marketing',
+            'https://monday.com/use-cases/crm',
+            'https://monday.com/use-cases/operations',
+            'https://monday.com/use-cases/product-development',
+            'https://monday.com/dashboards',
+            'https://monday.com/forms',
+            'https://monday.com/timeline',
+            'https://monday.com/workdocs',
+            'https://monday.com/workforms',
+            'https://monday.com/security',
+            'https://monday.com/apps',
+            'https://monday.com/crm',
+            'https://monday.com/work-management',
+            'https://monday.com/projects',
+            'https://monday.com/sales-crm',
+            'https://monday.com/marketing',
+            'https://monday.com/pmo',
+            'https://monday.com/construction',
+            'https://monday.com/nonprofit',
+            'https://monday.com/education',
         ]
         
         scraped = 0
@@ -416,8 +506,8 @@ def main():
     )
     
     # Configuration
-    OPENPROJECT_PAGES = 20
-    COMPETITOR_PAGES_EACH = 15
+    OPENPROJECT_PAGES = 50
+    COMPETITOR_PAGES_EACH = 35
     
     print("\n🚀 Starting web scraper...")
     print(f"   OpenProject pages: {OPENPROJECT_PAGES}")

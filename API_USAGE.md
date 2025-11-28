@@ -506,7 +506,6 @@ Interactive API docs available at:
 
 ---
 
-## 📞 Support
 
 For issues or questions:
 - Check logs: `docker-compose logs -f`
