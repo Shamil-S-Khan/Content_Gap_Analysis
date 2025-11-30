@@ -1,0 +1,14 @@
+{
+  "title": "Customers: Who uses OpenProject?",
+  "url": "https://www.openproject.org/customers/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "customers", "case studies", "use cases", "testimonials"],
+  "content_type": "case_study",
+  "word_count": 150,
+  "content": "The OpenProject customers page provides an overview of various organizations, companies, and universities that utilize OpenProject for their project management needs. It highlights different use cases across diverse industries such as construction, IT & technology, healthcare, and the public sector. The page serves as a collection of testimonials and brief case studies, showcasing how OpenProject helps these entities manage their projects effectively. It also provides links to more detailed case studies and resources, demonstrating the versatility and applicability of OpenProject in real-world scenarios.",
+  "links": [],
+  "entities": ["OpenProject"],
+  "language": "en"
+}

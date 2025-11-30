@@ -1,0 +1,14 @@
+{
+  "title": "Free Download and Install - OpenProject",
+  "url": "https://www.openproject.org/download-and-installation/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "download", "installation", "community edition", "enterprise edition", "linux", "docker", "windows"],
+  "content_type": "documentation",
+  "word_count": 250,
+  "content": "OpenProject offers a free and open-source Community version that can be downloaded and installed on various platforms. It is primarily designed for Linux distributions and can be installed using DEB/RPM packages or Docker containers, with Docker installation generally recommended. For those seeking additional features, enhanced security, and professional support, the OpenProject Enterprise on-premises edition is available, with a 14-day free trial that reverts to the Community edition if not extended. While primarily Linux-focused, guides exist for installing OpenProject on Windows 10, typically involving a dedicated installation package from the official website. Downloads are also mirrored on SourceForge.net. The page provides detailed installation instructions and download options, ensuring users can easily set up OpenProject according to their preferred environment and needs.",
+  "links": [],
+  "entities": ["OpenProject", "Linux", "Docker", "Windows", "SourceForge.net"],
+  "language": "en"
+}

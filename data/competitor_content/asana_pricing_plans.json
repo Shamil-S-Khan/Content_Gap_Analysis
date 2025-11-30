@@ -1,0 +1,14 @@
+{
+  "title": "Asana Pricing",
+  "url": "https://asana.com/pricing",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["pricing", "plans", "personal", "starter", "advanced", "enterprise"],
+  "content_type": "pricing",
+  "word_count": 65,
+  "content": "Asana offers several pricing plans: Personal (free for individuals), Starter ($10.99/user/month annually) for growing teams with features like AI Studio and Timeline view, Advanced ($24.99/user/month annually) for companies managing portfolios with additional AI features and integrations, and Enterprise/Enterprise+ (contact sales) for large organizations requiring advanced security, compliance, and support.",
+  "links": [],
+  "entities": ["Asana", "AI Studio"],
+  "language": "en"
+}

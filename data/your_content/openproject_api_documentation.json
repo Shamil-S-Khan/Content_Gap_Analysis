@@ -1,0 +1,14 @@
+{
+  "title": "OpenProject API Documentation",
+  "url": "https://www.openproject.org/docs/api/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "API", "documentation", "developer", "REST API", "BCF"],
+  "content_type": "documentation",
+  "word_count": 200,
+  "content": "The OpenProject API documentation provides comprehensive information for developers looking to integrate with or extend OpenProject. It covers the OpenProject API v3, which is a RESTful API, and also includes documentation for BCF v2.1 (BIM Collaboration Format). The documentation details various endpoints, request and response formats, authentication methods, and examples to facilitate development. It serves as a crucial resource for understanding how to programmatically interact with OpenProject, enabling custom applications, integrations with other tools, and automation of workflows. The page also links to other related documentation sections, offering a complete guide for developers.",
+  "links": [],
+  "entities": ["OpenProject", "API v3", "REST API", "BCF v2.1", "BIM Collaboration Format"],
+  "language": "en"
+}

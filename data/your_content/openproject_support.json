@@ -1,0 +1,14 @@
+{
+  "title": "Please contact us - OpenProject",
+  "url": "https://www.openproject.org/support/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "support", "contact", "help", "documentation", "FAQs", "training", "consulting"],
+  "content_type": "support",
+  "word_count": 300,
+  "content": "OpenProject offers comprehensive support options for its users. This includes various contact methods such as a message form, email addresses for enterprise, press, and security inquiries, and phone numbers for EU and US time zones. The support page also highlights different support levels available for Enterprise edition users, including onboarding training, consulting, and direct contact for critical issues. For general assistance, OpenProject provides extensive resources like Documentation & Help, FAQs, a Glossary, and information on Training & Consulting. The page also lists product resources such as a Blog, Videos, Roadmap, Release Notes, and Webinars. Community support is available through their community platform for inquiries regarding contributions or documentation issues. The page emphasizes accessibility to help users get the most out of their OpenProject experience.",
+  "links": [],
+  "entities": ["OpenProject"],
+  "language": "en"
+}

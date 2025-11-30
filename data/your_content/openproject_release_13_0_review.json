@@ -1,0 +1,14 @@
+{
+  "title": "OpenProject 13.0 Review: The Next Generation of Project Management",
+  "url": "https://www.openproject.org/blog/openproject-13-0-the-next-generation-of-project-management/ (summarized from third-party reviews)",
+  "published_at": "2023-08-21",
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "release", "version 13.0", "project management", "features", "collaboration", "Nextcloud", "Gantt chart", "iCalendar", "dark mode"],
+  "content_type": "blog_post",
+  "word_count": 500,
+  "content": "OpenProject 13.0, released on August 21, 2023, introduced a range of new features, collaboration enhancements, and bug fixes aimed at improving project management capabilities. A significant addition is the Baseline comparison feature, allowing users to track project changes over time, with advanced comparison (over specific periods) being an Enterprise add-on. The release deepens its integration with Nextcloud, introducing project folders with automatically managed permissions and support for project templates. An improved PDF export feature enables the creation of structured work plans from work packages, including customizable reports with cover pages and tables of contents. Users can now subscribe to their OpenProject calendars via the iCalendar format, integrating project dates into personal calendars. Notably, multi-select custom fields are now included in the Community version, making this feature accessible to all users. A new global menu provides intuitive access to all global modules, offering an overview of project information across projects. Other enhancements include a time tracking button, the introduction of the Primer Design System, localized seeding of all seed data, showing recently viewed work packages in global search, and an emoji picker for the text editor. Several bug fixes were also part of the release, addressing issues like untranslated strings and layout problems. Overall, OpenProject 13.0 is appreciated for being a free and open-source project management software that provides a web-based solution for team collaboration, supporting agile, traditional, or hybrid methodologies, and emphasizing data security.",
+  "links": [],
+  "entities": ["OpenProject", "Nextcloud", "iCalendar", "Primer Design System"],
+  "language": "en"
+}

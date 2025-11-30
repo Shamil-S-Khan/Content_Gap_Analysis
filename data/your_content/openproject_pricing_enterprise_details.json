@@ -1,0 +1,14 @@
+{
+  "title": "OpenProject Pricing: Enterprise Cloud and On-Premises Editions",
+  "url": "https://www.openproject.org/pricing/ (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "pricing", "enterprise", "cloud", "on-premises", "community edition", "subscription", "add-ons", "support"],
+  "content_type": "pricing",
+  "word_count": 400,
+  "content": "OpenProject offers various pricing editions, including a free Community edition and paid Enterprise editions for both cloud and on-premises deployments. The Community Edition is free of charge and self-managed. The Enterprise Cloud edition starts at €5.95 per member per month or $7.25 per member per month, with an alternative pricing of €247.50 per year for 5 users. This edition is securely hosted by OpenProject in the EU and includes additional add-ons and support, with a 14-day free trial available. The Enterprise On-Premises edition, a self-hosted option, also starts at €5.95 per member per month or $7.25 per member per month, with another listed price of €357.00 per year for 5 users. This version also comes with additional add-ons and support, and a 14-day free trial license key can be obtained to upgrade a self-hosted Community edition. OpenProject's pricing for its Enterprise editions generally follows a tiered subscription model, with costs varying based on the number of users and offering options for monthly or annual payments. Specific plans like Basic ($7.25/user/month), Professional ($13.50/user/month), and Premium ($19.50/user/month) are available, each with minimum user requirements. These Enterprise editions typically include features such as professional support, enterprise add-ons, and deployment flexibility, while OpenProject remains an open-source platform.",
+  "links": [],
+  "entities": ["OpenProject", "EU"],
+  "language": "en"
+}

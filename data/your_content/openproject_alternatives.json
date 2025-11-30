@@ -1,0 +1,14 @@
+{
+  "title": "Open Source Alternative for Project Management Software ...",
+  "url": "https://www.openproject.org/alternatives/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "alternatives", "comparison", "open source", "project management", "jira", "asana", "trello", "monday.com", "wrike", "basecamp", "redmine"],
+  "content_type": "comparison",
+  "word_count": 500,
+  "content": "OpenProject is a popular open-source project management software, and its alternatives page provides a comprehensive overview of various competitors. These alternatives cater to diverse needs, including open-source, paid, free, and self-hosted options. The page categorizes alternatives into open-source options like Plane, Focalboard, Huly, Leantime, Worklenz, Vikunja, Kanri, Taiga, Redmine, ProjectLibre, AFFiNE, and Kimai. It also lists paid and free alternatives, including those with free tiers or open-source components, such as Jira Software, ClickUp, Asana, Microsoft Project & Portfolio Management, Basecamp, Bitrix24, Slack, HRMantra, EngageBay, FreshBooks, SAP & Oracle NetSuite OpenAir, QuickReviewer, Wrike, monday.com, Trello, Smartsheet, Airtable, Teamwork.com, Avaza, Bordio, Hive, and Easy Redmine. The page highlights OpenProject's strengths as an open-source solution while acknowledging the diverse landscape of project management tools available in the market.",
+  "links": [],
+  "entities": ["OpenProject", "Jira Software", "ClickUp", "Asana", "Microsoft Project", "Basecamp", "Bitrix24", "Slack", "Wrike", "monday.com", "Trello", "Smartsheet", "Airtable", "Teamwork.com"],
+  "language": "en"
+}

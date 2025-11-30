@@ -1,0 +1,14 @@
+{
+  "title": "Monday.com Features: A Comprehensive Overview",
+  "url": "https://monday.com/features (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["monday.com", "features", "work management", "collaboration", "project management", "automation", "dashboards", "integrations"],
+  "content_type": "product_page",
+  "word_count": 350,
+  "content": "Monday.com is a cloud-based Work OS offering a wide range of features for work management and collaboration. Its core includes visual boards with multiple views (Kanban, Calendar, Timeline, Gantt, etc.), allowing customizable workflows and over 200 pre-built templates. Users can automate repetitive tasks with 'If this, then that' logic. Customizable dashboards provide reporting with widgets for key metrics. Collaboration tools include real-time updates, mentions, and file sharing. Workdocs enable teams to store information and collaborate on documents. An integrations marketplace extends functionality with third-party tools. Time tracking and workload management aid resource allocation. Task management features allow creation, assignment, and tracking of tasks and subtasks. Monday AI enhances workflows with AI agents and apps. The platform is accessible via mobile and desktop apps. Specialized products like monday CRM, monday Projects, and monday Dev cater to specific team needs.",
+  "links": [],
+  "entities": ["Monday.com", "Work OS", "Kanban", "Gantt", "Monday AI", "monday CRM", "monday Projects", "monday Dev"],
+  "language": "en"
+}

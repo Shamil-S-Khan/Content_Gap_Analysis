@@ -1,0 +1,14 @@
+{
+  "title": "Blog - OpenProject",
+  "url": "https://www.openproject.org/blog/",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "blog", "digital sovereignty", "releases", "alternatives", "use cases", "integrations", "PRINCE2", "remote teams", "AI", "security", "public sector"],
+  "content_type": "blog_overview",
+  "word_count": 250,
+  "content": "The OpenProject blog serves as a central hub for articles and news related to the OpenProject software. It covers a wide range of topics, including discussions on digital sovereignty, announcements of new releases (e.g., OpenProject 16.6, 16.5, 16.4, 16.3), comparisons with software alternatives like Atlassian, and detailed use cases such as CanSatLab. The blog also features content on open-source solutions for the public sector, integrations with tools like Nextcloud, insights into methodologies like PRINCE2, tips for remote team collaboration, content planning tools, project templates, program management, and the application of AI in project management. Additionally, it addresses the importance of secure project management software with EU servers and strategies for empowering the public sector with OpenProject. Blog posts are categorized under Company, Features, Learning, Open Source, and Releases, providing a structured way to explore content.",
+  "links": [],
+  "entities": ["OpenProject", "Atlassian", "CanSatLab", "Nextcloud", "PRINCE2", "AI"],
+  "language": "en"
+}

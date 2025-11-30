@@ -1,0 +1,14 @@
+{
+  "title": "OpenProject Community News Review: Continuous Development and Open-Source Engagement",
+  "url": "https://www.openproject.org/blog/category/community-news/ (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "community news", "releases", "updates", "features", "digital sovereignty", "open source", "contributions"],
+  "content_type": "blog_post",
+  "word_count": 600,
+  "content": "The OpenProject community has been actively releasing updates and engaging with its users, demonstrating continuous development and a commitment to open-source principles. Recent news highlights include several new releases (e.g., versions 16.6.1, 16.6.0, 16.5.1, 16.5.0, 16.4.1, and 16.4.0), consistently bringing new features, performance improvements, and bug fixes. For instance, OpenProject 16.6 introduced new ways to evaluate and compare projects, major performance upgrades, and a new index page for the Documents module. A significant development is OpenProject's collaboration with XWiki, highlighted by the European Commission's Open Source Observatory (OSOR), aiming to provide an integrated open-source suite and fostering digital sovereignty in Europe. Feature enhancements include calculated values for project evaluation and scoring (an Enterprise add-on), improved budget handling in project queries, and automatically generated work package subjects. The OpenProject team actively encourages community contributions through translations, forum engagement, documentation, and bug fixing. While new enterprise add-ons are continuously developed, OpenProject is committed to releasing select enterprise features to the community version. The community news reflects a vibrant and evolving project, dedicated to improving its project management software while maintaining its open-source ethos and engaging with its user base, also participating in events and actively hiring.",
+  "links": [],
+  "entities": ["OpenProject", "XWiki", "European Commission", "OSOR", "Nextcloud"],
+  "language": "en"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "OpenProject Training & Tutorials Review: Comprehensive Guides for Effective Project Management",
+  "url": "https://www.openproject.org/training-consulting/ (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["openproject", "training", "tutorials", "documentation", "user guide", "video tutorials", "Gantt charts", "agile", "scrum", "kanban"],
+  "content_type": "documentation",
+  "word_count": 400,
+  "content": "OpenProject offers a comprehensive suite of training tutorials and documentation, generally well-regarded for its quality and depth. These resources are crucial for users to fully leverage the software's extensive features. Key aspects include high-quality content with well-written guides and video tutorials that demonstrate tools and functionalities. The documentation is clear, well-structured, and regularly updated. It covers a wide range of topics, from initial setup like creating projects, inviting team members, and managing work packages, to more advanced features such as project planning with Gantt charts and setting up agile boards. Multilingual support ensures accessibility, with significant portions available in multiple languages. While OpenProject features a clean user interface, its rich feature set can present a learning curve for new users, making engagement with these detailed guides and video tutorials essential. Beyond tutorials, OpenProject offers user guides, glossaries, FAQs, and a community forum. Paid training, consulting, and support options, including 'Getting started training' for Enterprise customers, are also available. Overall, the quality and availability of these training materials are vital for navigating the software's complexity and maximizing its potential.",
+  "links": [],
+  "entities": ["OpenProject", "Gantt charts", "Scrum", "Kanban"],
+  "language": "en"
+}

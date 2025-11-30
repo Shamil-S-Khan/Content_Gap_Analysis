@@ -1,0 +1,14 @@
+{
+  "title": "Trello Pricing Details: Free, Standard, Premium, and Enterprise Plans",
+  "url": "https://trello.com/pricing (summarized from third-party reviews)",
+  "published_at": null,
+  "updated_at": null,
+  "author": null,
+  "tags": ["trello", "pricing", "free", "standard", "premium", "enterprise", "features", "automation", "integrations", "security", "support"],
+  "content_type": "pricing",
+  "word_count": 500,
+  "content": "Trello offers Free, Standard, Premium, and Enterprise pricing plans. The Free Plan is suitable for individuals or small teams, including up to 10 boards and 250 workspace command runs per month. The Standard Plan, priced at $5 per user per month annually, is designed for small teams needing more collaboration tools. It offers unlimited boards and storage, custom fields, advanced checklists, and 1,000 automation command runs. The Premium Plan, costing $10 per user per month annually, is best for cross-functional teams and project managers. It includes all Standard features plus additional views (Timeline, Table, Calendar, Dashboard, Map), unlimited automation runs, and enhanced admin and security controls. The Enterprise Plan, starting at $17.50 per user per month annually with a minimum of 50 users, is for larger organizations. It includes all Premium features, along with organization-wide permissions, free SSO and user provisioning with Atlassian Guard, unlimited workspaces, multi-board guests, and dedicated 24/7 admin support. Trello also offers discounts for non-profit entities and academic institutions. These tiered plans highlight Trello's approach to providing scalable solutions for various business sizes and requirements, from basic task management to comprehensive enterprise-level project management with advanced features and security.",
+  "links": [],
+  "entities": ["Trello", "Atlassian Guard"],
+  "language": "en"
+}
