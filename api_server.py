@@ -74,8 +74,8 @@ async def health_check():
     }
 
 
-@app.post("/run", response_model=AnalysisResponse)
-async def run_analysis(request: AnalysisRequest, background_tasks: BackgroundTasks):
+@app.api_route("/run", methods=["GET", "POST"], response_model=AnalysisResponse)
+async def run_analysis(request: AnalysisRequest = None, background_tasks: BackgroundTasks = None):
     """
     Trigger content gap analysis
     
@@ -83,6 +83,10 @@ async def run_analysis(request: AnalysisRequest, background_tasks: BackgroundTas
     runs full analysis pipeline, and caches results.
     """
     global last_result, last_metrics, last_job_id, analysis_running
+    
+    # Handle GET requests without body - use defaults
+    if request is None:
+        request = AnalysisRequest()
     
     if analysis_running:
         raise HTTPException(status_code=409, detail="Analysis already running. Please wait.")

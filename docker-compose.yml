@@ -51,9 +51,9 @@ services:
       - "start"
       - "--all"
       - "--config"
-      - "/etc/ngrok.yml"
+      - "/ngrok.yml"
     volumes:
-      - ./ngrok.yml:/etc/ngrok.yml
+      - ./content_gap_analysis/ngrok.yml:/ngrok.yml
     ports:
       - "4040:4040"
     networks:
@@ -70,9 +70,9 @@ services:
       - "start"
       - "--all"
       - "--config"
-      - "/etc/ngrok.yml"
+      - "/ngrok-dashboard.yml"
     volumes:
-      - ./ngrok-dashboard.yml:/etc/ngrok.yml
+      - ./content_gap_analysis/ngrok-dashboard.yml:/ngrok-dashboard.yml
     ports:
       - "4041:4040"
     networks:
