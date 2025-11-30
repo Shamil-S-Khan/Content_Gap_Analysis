@@ -21,21 +21,21 @@
       "title": "OpenProject 12.0.10",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "project",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow",
-        "work",
-        "automation",
-        "marketing",
-        "productivity"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "get",
+        "task",
+        "include"
       ],
       "impact_score": 95,
       "difficulty": "medium",
@@ -46,21 +46,21 @@
       "title": "OpenProject API Documentation",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "project",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow",
-        "work",
-        "automation",
-        "marketing",
-        "productivity"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "get",
+        "task",
+        "include"
       ],
       "impact_score": 94,
       "difficulty": "medium",
@@ -71,21 +71,21 @@
       "title": "Wiki - OpenProject",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "project",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow",
-        "automation",
-        "marketing",
-        "productivity",
-        "apps"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "get",
+        "task",
+        "include"
       ],
       "impact_score": 94,
       "difficulty": "medium",
@@ -96,21 +96,21 @@
       "title": "Forums - OpenProject",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow",
-        "work",
-        "automation",
-        "marketing",
-        "productivity"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "task",
+        "include",
+        "communication",
+        "like"
       ],
       "impact_score": 93,
       "difficulty": "medium",
@@ -121,21 +121,21 @@
       "title": "Rich text (WYSIWYG) editor in OpenProject - OpenProject",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow",
-        "automation",
-        "marketing",
-        "productivity",
-        "apps"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "get",
+        "task",
+        "include",
+        "communication"
       ],
       "impact_score": 93,
       "difficulty": "medium",
@@ -146,21 +146,21 @@
       "title": "Agile project management - why and in what case?",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "asana",
+        "support",
         "sale",
-        "workflow",
-        "work",
-        "automation",
-        "marketing",
-        "productivity",
-        "apps"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "get",
+        "task",
+        "include",
+        "communication",
+        "like"
       ],
       "impact_score": 92,
       "difficulty": "medium",
@@ -171,21 +171,21 @@
       "title": "OpenProject Community News Review: Continuous Development and Open-Source Engagement",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow",
-        "work",
-        "automation",
-        "marketing",
-        "productivity",
-        "apps"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "get",
+        "task",
+        "include",
+        "communication"
       ],
       "impact_score": 92,
       "difficulty": "medium",
@@ -196,21 +196,21 @@
       "title": "Budgets - OpenProject",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow",
-        "automation",
-        "marketing",
-        "productivity",
-        "apps",
-        "platform"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "get",
+        "task",
+        "include",
+        "communication"
       ],
       "impact_score": 92,
       "difficulty": "medium",
@@ -221,21 +221,21 @@
       "title": "Gantt charts - OpenProject",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow",
-        "automation",
-        "marketing",
-        "productivity",
-        "apps"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "get",
+        "task",
+        "include",
+        "communication"
       ],
       "impact_score": 92,
       "difficulty": "medium",
@@ -246,21 +246,21 @@
       "title": "Project News - OpenProject",
       "gap_type": "under-optimized",
       "keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow",
-        "work",
-        "automation",
-        "marketing",
-        "productivity",
-        "apps"
+        "monday",
+        "use",
+        "goal",
+        "security",
+        "get",
+        "task",
+        "include",
+        "communication"
       ],
       "impact_score": 92,
       "difficulty": "medium",
@@ -506,16 +506,16 @@
       "title": "OpenProject 12.0.10",
       "slug": "openproject-12010",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
-        "sale"
+        "project",
+        "asana",
+        "support",
+        "customer",
+        "sale",
+        "monday",
+        "use"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 95,
@@ -523,7 +523,7 @@
       "outline": {
         "H1": "OpenProject 12.0.10",
         "H2": [
-          "Introduction to Integration",
+          "Introduction to Project",
           "Key Features and Benefits",
           "Implementation Guide",
           "Use Cases and Examples",
@@ -532,11 +532,11 @@
         ]
       },
       "media_assets": [
-        "Hero image: board overview",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Hero image: data overview",
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -546,7 +546,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2025-12-19",
+      "publish_priority": "2025-12-21",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 49 keyword opportunities. Missing 49 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -558,16 +558,16 @@
       "title": "OpenProject API Documentation",
       "slug": "openproject-api-documentation",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
-        "sale"
+        "project",
+        "asana",
+        "support",
+        "customer",
+        "sale",
+        "monday",
+        "use"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 94,
@@ -585,10 +585,10 @@
       },
       "media_assets": [
         "Screenshot: API documentation interface",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -598,7 +598,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2025-12-26",
+      "publish_priority": "2025-12-28",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 48 keyword opportunities. Missing 48 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -610,16 +610,16 @@
       "title": "Wiki - OpenProject",
       "slug": "wiki-openproject",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
-        "sale"
+        "project",
+        "asana",
+        "support",
+        "customer",
+        "sale",
+        "monday",
+        "use"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 94,
@@ -627,7 +627,7 @@
       "outline": {
         "H1": "Wiki - OpenProject",
         "H2": [
-          "Introduction to Integration",
+          "Introduction to Project",
           "Key Features and Benefits",
           "Implementation Guide",
           "Use Cases and Examples",
@@ -636,11 +636,11 @@
         ]
       },
       "media_assets": [
-        "Hero image: board overview",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Hero image: data overview",
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -650,7 +650,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-01-02",
+      "publish_priority": "2026-01-04",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 48 keyword opportunities. Missing 48 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -662,16 +662,16 @@
       "title": "Forums - OpenProject",
       "slug": "forums-openproject",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
-        "sale"
+        "asana",
+        "support",
+        "customer",
+        "sale",
+        "monday",
+        "use",
+        "goal"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 93,
@@ -679,7 +679,7 @@
       "outline": {
         "H1": "Forums - OpenProject",
         "H2": [
-          "Introduction to Integration",
+          "Introduction to Forums",
           "Key Features and Benefits",
           "Implementation Guide",
           "Use Cases and Examples",
@@ -688,11 +688,11 @@
         ]
       },
       "media_assets": [
-        "Hero image: board overview",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Hero image: data overview",
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -702,7 +702,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-01-09",
+      "publish_priority": "2026-01-11",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 47 keyword opportunities. Missing 47 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -714,16 +714,16 @@
       "title": "Rich text (WYSIWYG) editor in OpenProject - OpenProject",
       "slug": "rich-text-wysiwyg-editor-in-openproject-openproject",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
-        "sale"
+        "asana",
+        "support",
+        "customer",
+        "sale",
+        "monday",
+        "use",
+        "goal"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 93,
@@ -731,7 +731,7 @@
       "outline": {
         "H1": "Rich text (WYSIWYG) editor in OpenProject - OpenProject",
         "H2": [
-          "Introduction to Integration",
+          "Introduction to Rich",
           "Key Features and Benefits",
           "Implementation Guide",
           "Use Cases and Examples",
@@ -740,11 +740,11 @@
         ]
       },
       "media_assets": [
-        "Hero image: board overview",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Hero image: data overview",
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -754,7 +754,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-01-16",
+      "publish_priority": "2026-01-18",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 47 keyword opportunities. Missing 47 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -766,16 +766,16 @@
       "title": "Agile project management - why and in what case?",
       "slug": "agile-project-management-why-and-in-what-case",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "asana",
+        "support",
         "sale",
-        "workflow"
+        "monday",
+        "use",
+        "goal",
+        "security"
       ],
       "search_intent": "Informational (conceptual)",
       "impact_score": 92,
@@ -793,10 +793,10 @@
       },
       "media_assets": [
         "Screenshot: Agile board with tasks",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -806,7 +806,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-01-23",
+      "publish_priority": "2026-01-25",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -818,16 +818,16 @@
       "title": "OpenProject Community News Review: Continuous Development and Open-Source Engagement",
       "slug": "openproject-community-news-review-continuous-development",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow"
+        "monday",
+        "use",
+        "goal"
       ],
       "search_intent": "Commercial (comparison/research)",
       "impact_score": 92,
@@ -845,10 +845,10 @@
       },
       "media_assets": [
         "Photo: Team collaboration or customer logos",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -858,7 +858,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-01-30",
+      "publish_priority": "2026-02-01",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -870,16 +870,16 @@
       "title": "Budgets - OpenProject",
       "slug": "budgets-openproject",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow"
+        "monday",
+        "use",
+        "goal"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 92,
@@ -887,7 +887,7 @@
       "outline": {
         "H1": "Budgets - OpenProject",
         "H2": [
-          "Introduction to Integration",
+          "Introduction to Budgets",
           "Key Features and Benefits",
           "Implementation Guide",
           "Use Cases and Examples",
@@ -896,11 +896,11 @@
         ]
       },
       "media_assets": [
-        "Hero image: board overview",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Hero image: data overview",
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -910,7 +910,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-02-06",
+      "publish_priority": "2026-02-08",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -922,16 +922,16 @@
       "title": "Gantt charts - OpenProject",
       "slug": "gantt-charts-openproject",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
-        "feature",
-        "sale"
+        "asana",
+        "support",
+        "customer",
+        "sale",
+        "monday",
+        "use",
+        "goal"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 92,
@@ -939,7 +939,7 @@
       "outline": {
         "H1": "Gantt charts - OpenProject",
         "H2": [
-          "Introduction to Integration",
+          "Introduction to Gantt",
           "Key Features and Benefits",
           "Implementation Guide",
           "Use Cases and Examples",
@@ -949,10 +949,10 @@
       },
       "media_assets": [
         "Screenshot: Gantt chart example",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -962,7 +962,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-02-13",
+      "publish_priority": "2026-02-15",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -974,16 +974,16 @@
       "title": "Project News - OpenProject",
       "slug": "project-news-openproject",
       "target_keywords": [
-        "board",
         "data",
-        "integration",
-        "management",
-        "user",
-        "goal",
-        "support",
+        "platform",
         "per",
+        "asana",
+        "support",
+        "customer",
         "sale",
-        "workflow"
+        "monday",
+        "use",
+        "goal"
       ],
       "search_intent": "Informational (general)",
       "impact_score": 92,
@@ -1000,11 +1000,11 @@
         ]
       },
       "media_assets": [
-        "Hero image: board overview",
-        "Optimized featured image with board",
-        "Infographic: board quick reference",
-        "Chart: board performance metrics",
-        "Video embed: board demonstration"
+        "Hero image: data overview",
+        "Optimized featured image with data",
+        "Infographic: data quick reference",
+        "Chart: data performance metrics",
+        "Video embed: data demonstration"
       ],
       "cta": "Download Our Free Guide",
       "resources_needed": [
@@ -1014,7 +1014,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-02-20",
+      "publish_priority": "2026-02-22",
       "traffic_impact": "High impact: Estimated 1,000-3,000 monthly organic visits",
       "competitive_advantage": "Addresses under-optimized gap with 46 keyword opportunities. Missing 46 high-value competitor keywords",
       "gap_addressed": "under-optimized",
@@ -1061,7 +1061,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-03-08",
+      "publish_priority": "2026-03-10",
       "traffic_impact": "Medium impact: Estimated 200-800 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 4 competitor documents. Your content (113 words avg) is thinner than competitors (278 words avg)",
       "gap_addressed": "thin",
@@ -1107,7 +1107,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-03-15",
+      "publish_priority": "2026-03-17",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 3 competitor documents. Your content (280 words avg) is thinner than competitors (517 words avg)",
       "gap_addressed": "thin",
@@ -1153,7 +1153,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-03-22",
+      "publish_priority": "2026-03-24",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 3 competitor documents. Your content (113 words avg) is thinner than competitors (295 words avg)",
       "gap_addressed": "thin",
@@ -1197,7 +1197,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-03-29",
+      "publish_priority": "2026-03-31",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 1 competitor documents. Your content (95 words avg) is thinner than competitors (970 words avg)",
       "gap_addressed": "thin",
@@ -1242,7 +1242,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-04-05",
+      "publish_priority": "2026-04-07",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 2 competitor documents. Your content (213 words avg) is thinner than competitors (357 words avg)",
       "gap_addressed": "thin",
@@ -1288,7 +1288,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-04-27",
+      "publish_priority": "2026-04-29",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1334,7 +1334,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-05-04",
+      "publish_priority": "2026-05-06",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1380,7 +1380,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-05-11",
+      "publish_priority": "2026-05-13",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1426,7 +1426,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-05-18",
+      "publish_priority": "2026-05-20",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1472,7 +1472,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-05-25",
+      "publish_priority": "2026-05-27",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1518,7 +1518,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-06-01",
+      "publish_priority": "2026-06-03",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1564,7 +1564,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-06-08",
+      "publish_priority": "2026-06-10",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1610,7 +1610,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-06-15",
+      "publish_priority": "2026-06-17",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1656,7 +1656,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-06-22",
+      "publish_priority": "2026-06-24",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1702,7 +1702,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-06-29",
+      "publish_priority": "2026-07-01",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1748,7 +1748,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-07-06",
+      "publish_priority": "2026-07-08",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1794,7 +1794,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-07-13",
+      "publish_priority": "2026-07-15",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1840,7 +1840,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-07-20",
+      "publish_priority": "2026-07-22",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1886,7 +1886,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-07-27",
+      "publish_priority": "2026-07-29",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1932,7 +1932,7 @@
         "Graphic designer",
         "SEO review"
       ],
-      "publish_priority": "2026-08-03",
+      "publish_priority": "2026-08-05",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses missing gap with 1/3 competitors. Topic covered by 1 competitors but absent from your content",
       "gap_addressed": "missing",
@@ -1976,7 +1976,7 @@
         "Basic graphics/stock images",
         "Research analyst for competitive analysis"
       ],
-      "publish_priority": "2026-07-26",
+      "publish_priority": "2026-07-28",
       "traffic_impact": "Low-Medium impact: Estimated 50-300 monthly organic visits",
       "competitive_advantage": "Addresses thin gap with 1 competitor documents. Your content (193 words avg) is thinner than competitors (338 words avg)",
       "gap_addressed": "thin",
@@ -2625,106 +2625,116 @@
     }
   },
   "model_metrics": {
-    "precision": 0.9664031620553359,
-    "recall": 0.963032581453634,
-    "accuracy": 0.963855421686747,
-    "f1_macro": 0.9641482662469616,
-    "f1_micro": 0.963855421686747,
+    "precision": 0.8763249269005848,
+    "recall": 0.8367011278195489,
+    "accuracy": 0.8433734939759037,
+    "f1_macro": 0.8459533887165466,
+    "f1_micro": 0.8433734939759037,
     "confusion_matrix": [
       [
-        22,
-        0,
+        23,
+        1,
         0,
         0
       ],
       [
-        1,
-        20,
+        3,
+        16,
         0,
         0
       ],
       [
+        4,
         0,
-        1,
-        18,
-        0
+        14,
+        1
       ],
       [
+        2,
+        2,
         0,
-        1,
-        0,
-        20
+        17
       ]
     ],
     "samples_evaluated": 83,
-    "false_positives": [],
+    "false_positives": [
+      "Synthetic: Outdated gap for product development | True: outdated, Predicted: under-optimized",
+      "Synthetic: Missing gap for API design | True: missing, Predicted: thin"
+    ],
     "false_negatives": [
+      "Synthetic: Under-Optimized gap for mobile apps | True: under-optimized, Predicted: missing",
       "Synthetic: Thin gap for mobile apps | True: thin, Predicted: missing",
-      "Synthetic: Outdated gap for data analysis | True: outdated, Predicted: thin",
-      "Synthetic: Under-Optimized gap for agile methodology | True: under-optimized, Predicted: thin"
+      "Synthetic: Thin gap for API design | True: thin, Predicted: missing",
+      "Synthetic: Under-Optimized gap for digital marketing | True: under-optimized, Predicted: missing",
+      "Synthetic: Thin gap for business intelligence | True: thin, Predicted: missing",
+      "Synthetic: Under-Optimized gap for marketing automation | True: under-optimized, Predicted: thin",
+      "Synthetic: Outdated gap for product development | True: outdated, Predicted: missing",
+      "Synthetic: Under-Optimized gap for API integration | True: under-optimized, Predicted: thin",
+      "Synthetic: Outdated gap for social media | True: outdated, Predicted: missing",
+      "Synthetic: Outdated gap for full-stack development | True: outdated, Predicted: missing"
     ],
     "per_class_metrics": {
       "missing": {
-        "precision": 0.9565217391304348,
-        "recall": 1.0,
-        "f1_score": 0.9777777777777777,
-        "support": 22
+        "precision": 0.71875,
+        "recall": 0.9583333333333334,
+        "f1_score": 0.8214285714285714,
+        "support": 24
       },
       "thin": {
-        "precision": 0.9090909090909091,
-        "recall": 0.9523809523809523,
-        "f1_score": 0.9302325581395349,
-        "support": 21
+        "precision": 0.8421052631578947,
+        "recall": 0.8421052631578947,
+        "f1_score": 0.8421052631578947,
+        "support": 19
       },
       "outdated": {
         "precision": 1.0,
-        "recall": 0.9473684210526315,
-        "f1_score": 0.972972972972973,
+        "recall": 0.7368421052631579,
+        "f1_score": 0.8484848484848485,
         "support": 19
       },
       "under-optimized": {
-        "precision": 1.0,
-        "recall": 0.9523809523809523,
-        "f1_score": 0.975609756097561,
+        "precision": 0.9444444444444444,
+        "recall": 0.8095238095238095,
+        "f1_score": 0.8717948717948718,
         "support": 21
       }
     },
     "classification_report": {
       "missing": {
-        "precision": 0.9565217391304348,
-        "recall": 1.0,
-        "f1-score": 0.9777777777777777,
-        "support": 22.0
+        "precision": 0.71875,
+        "recall": 0.9583333333333334,
+        "f1-score": 0.8214285714285714,
+        "support": 24.0
       },
       "thin": {
-        "precision": 0.9090909090909091,
-        "recall": 0.9523809523809523,
-        "f1-score": 0.9302325581395349,
-        "support": 21.0
+        "precision": 0.8421052631578947,
+        "recall": 0.8421052631578947,
+        "f1-score": 0.8421052631578947,
+        "support": 19.0
       },
       "outdated": {
         "precision": 1.0,
-        "recall": 0.9473684210526315,
-        "f1-score": 0.972972972972973,
+        "recall": 0.7368421052631579,
+        "f1-score": 0.8484848484848485,
         "support": 19.0
       },
       "under-optimized": {
-        "precision": 1.0,
-        "recall": 0.9523809523809523,
-        "f1-score": 0.975609756097561,
+        "precision": 0.9444444444444444,
+        "recall": 0.8095238095238095,
+        "f1-score": 0.8717948717948718,
         "support": 21.0
       },
-      "accuracy": 0.963855421686747,
+      "accuracy": 0.8433734939759037,
       "macro avg": {
-        "precision": 0.9664031620553359,
-        "recall": 0.963032581453634,
-        "f1-score": 0.9641482662469616,
+        "precision": 0.8763249269005848,
+        "recall": 0.8367011278195489,
+        "f1-score": 0.8459533887165466,
         "support": 83.0
       },
       "weighted avg": {
-        "precision": 0.9654745464069717,
-        "recall": 0.963855421686747,
-        "f1-score": 0.964099833693694,
+        "precision": 0.8684738955823292,
+        "recall": 0.8433734939759037,
+        "f1-score": 0.8450986764239776,
         "support": 83.0
       }
     }
@@ -2733,7 +2743,7 @@
     {
       "slide_number": 1,
       "title": "Content Gap Analysis & Strategic Recommendations",
-      "content": "**Data-Driven Content Strategy for Competitive Advantage**\n\nComprehensive Analysis Report\n\nNovember 28, 2025\n\n---\n\n**Prepared by:** Content Intelligence Team  \n**Confidentiality:** Internal Use Only\n",
+      "content": "**Data-Driven Content Strategy for Competitive Advantage**\n\nComprehensive Analysis Report\n\nNovember 30, 2025\n\n---\n\n**Prepared by:** Content Intelligence Team  \n**Confidentiality:** Internal Use Only\n",
       "visual_elements": [
         "Company logo (top right)",
         "Professional gradient background",
@@ -2744,7 +2754,7 @@
     {
       "slide_number": 2,
       "title": "Executive Summary: Key Findings",
-      "content": "**Analysis Overview**\n\n✅ **31 strategic content gaps** identified across four categories  \n✅ **31 prioritized recommendations** ready for execution  \n✅ **96.4% model accuracy** in gap classification  \n✅ **90-day implementation roadmap** with resource allocation\n\n**Critical Insights:**\n\n🎯 **Quick Wins:** Multiple high-impact, low-difficulty opportunities for immediate ROI\n\n📊 **Coverage Gaps:** Competitors significantly outperform in key topic areas\n\n💡 **Traffic Opportunity:** Projected 15-30% organic growth within 6 months\n\n⚡ **Action Required:** Resource approval and content governance framework\n",
+      "content": "**Analysis Overview**\n\n✅ **31 strategic content gaps** identified across four categories  \n✅ **31 prioritized recommendations** ready for execution  \n✅ **84.3% model accuracy** in gap classification  \n✅ **90-day implementation roadmap** with resource allocation\n\n**Critical Insights:**\n\n🎯 **Quick Wins:** Multiple high-impact, low-difficulty opportunities for immediate ROI\n\n📊 **Coverage Gaps:** Competitors significantly outperform in key topic areas\n\n💡 **Traffic Opportunity:** Projected 15-30% organic growth within 6 months\n\n⚡ **Action Required:** Resource approval and content governance framework\n",
       "visual_elements": [
         "4-quadrant icon grid showing gap types",
         "Pie chart: gap distribution by category",
@@ -2777,7 +2787,7 @@
     {
       "slide_number": 5,
       "title": "Top 5 Content Opportunities: Quick Wins & Strategic Plays",
-      "content": "**Top 5 Priority Content Opportunities**\n\n\n**1. OpenProject 12.0.10**\n- Impact: 95/100 | Difficulty: Medium | Target: 2025-12-19\n\n**2. OpenProject API Documentation**\n- Impact: 94/100 | Difficulty: Medium | Target: 2025-12-26\n\n**3. Wiki - OpenProject**\n- Impact: 94/100 | Difficulty: Medium | Target: 2026-01-02\n\n**4. Forums - OpenProject**\n- Impact: 93/100 | Difficulty: Medium | Target: 2026-01-09\n\n**5. Rich text (WYSIWYG) editor in OpenProject - OpenProject**\n- Impact: 93/100 | Difficulty: Medium | Target: 2026-01-16\n\n\n**Selection Criteria:**\n- Highest impact scores (70-100 range)\n- Balanced difficulty levels for achievable execution\n- Strategic coverage across gap types\n- Optimal publication timeline for 90-day window\n\n**Expected Outcomes:**\n- Combined traffic potential: 3,000-8,000 monthly visits\n- Keyword ranking improvements: 50+ new top-10 positions\n- Competitive parity in critical topic areas\n",
+      "content": "**Top 5 Priority Content Opportunities**\n\n\n**1. OpenProject 12.0.10**\n- Impact: 95/100 | Difficulty: Medium | Target: 2025-12-21\n\n**2. OpenProject API Documentation**\n- Impact: 94/100 | Difficulty: Medium | Target: 2025-12-28\n\n**3. Wiki - OpenProject**\n- Impact: 94/100 | Difficulty: Medium | Target: 2026-01-04\n\n**4. Forums - OpenProject**\n- Impact: 93/100 | Difficulty: Medium | Target: 2026-01-11\n\n**5. Rich text (WYSIWYG) editor in OpenProject - OpenProject**\n- Impact: 93/100 | Difficulty: Medium | Target: 2026-01-18\n\n\n**Selection Criteria:**\n- Highest impact scores (70-100 range)\n- Balanced difficulty levels for achievable execution\n- Strategic coverage across gap types\n- Optimal publication timeline for 90-day window\n\n**Expected Outcomes:**\n- Combined traffic potential: 3,000-8,000 monthly visits\n- Keyword ranking improvements: 50+ new top-10 positions\n- Competitive parity in critical topic areas\n",
       "visual_elements": [
         "Horizontal bar chart: impact scores for top 5",
         "Timeline showing target publication dates",
@@ -2800,19 +2810,19 @@
     {
       "slide_number": 7,
       "title": "Model Performance: Validated & Production-Ready",
-      "content": "**Machine Learning Model Validation**\n\n**Performance Metrics:**\n\n| Metric | Score | Status |\n|--------|-------|--------|\n| **Accuracy** | **96.4%** | ✅ EXCEEDS 80% threshold |\n| **Precision** | 96.6% | ✅ Strong |\n| **Recall** | 96.3% | ✅ Strong |\n| **F1 Score** | 96.4% | ✅ Balanced |\n\n**Evaluation Dataset:** 83 samples\n\n**Model Confidence:**\nThe classification model meets production standards, ensuring reliable gap categorization and prioritization. Error analysis shows expected confusion between semantically similar gap types.\n\n**Business Impact:**\nValidated model enables automated gap detection at scale, reducing manual analysis time by 70% while maintaining accuracy.\n",
+      "content": "**Machine Learning Model Validation**\n\n**Performance Metrics:**\n\n| Metric | Score | Status |\n|--------|-------|--------|\n| **Accuracy** | **84.3%** | ✅ EXCEEDS 80% threshold |\n| **Precision** | 87.6% | ✅ Strong |\n| **Recall** | 83.7% | ✅ Strong |\n| **F1 Score** | 84.6% | ✅ Balanced |\n\n**Evaluation Dataset:** 83 samples\n\n**Model Confidence:**\nThe classification model meets production standards, ensuring reliable gap categorization and prioritization. Error analysis shows expected confusion between semantically similar gap types.\n\n**Business Impact:**\nValidated model enables automated gap detection at scale, reducing manual analysis time by 70% while maintaining accuracy.\n",
       "visual_elements": [
         "Gauge chart showing accuracy vs. 80% threshold",
         "Confusion matrix heatmap (4x4 grid)",
         "Bar chart: precision, recall, F1 across gap types",
         "✅ checkmark icon for passing threshold"
       ],
-      "speaker_notes": "Model achieved 96.4% accuracy, exceeding required threshold. This validates our analytical approach. High precision means recommendations are reliable. Ready for production deployment."
+      "speaker_notes": "Model achieved 84.3% accuracy, exceeding required threshold. This validates our analytical approach. High precision means recommendations are reliable. Ready for production deployment."
     },
     {
       "slide_number": 8,
       "title": "90-Day Implementation Roadmap",
-      "content": "**90-Day Publication Roadmap**\n\n\n**December 2025** (2 pieces)\n- OpenProject 12.0.10 (Impact: 95)\n- OpenProject API Documentation (Impact: 94)\n\n**January 2026** (5 pieces)\n- Wiki - OpenProject (Impact: 94)\n- Forums - OpenProject (Impact: 93)\n- Rich text (WYSIWYG) editor in OpenProject - OpenProject (Impact: 93)\n- ... and 2 more\n\n**February 2026** (3 pieces)\n- Budgets - OpenProject (Impact: 92)\n- Gantt charts - OpenProject (Impact: 92)\n- Project News - OpenProject (Impact: 92)\n\n\n**Milestone Checkpoints:**\n- ✅ **Week 4:** First 3-5 quick wins published\n- ✅ **Week 8:** Strategic content 50% complete\n- ✅ **Week 12:** Full 90-day roadmap execution complete\n- ✅ **Month 4:** Initial performance review and optimization\n\n**Success Metrics:**\n- On-time publication rate: Target 90%+\n- Quality assurance pass rate: Target 95%+\n- Early traffic signals: Track from week 2\n",
+      "content": "**90-Day Publication Roadmap**\n\n\n**December 2025** (2 pieces)\n- OpenProject 12.0.10 (Impact: 95)\n- OpenProject API Documentation (Impact: 94)\n\n**January 2026** (4 pieces)\n- Wiki - OpenProject (Impact: 94)\n- Forums - OpenProject (Impact: 93)\n- Rich text (WYSIWYG) editor in OpenProject - OpenProject (Impact: 93)\n- ... and 1 more\n\n**February 2026** (4 pieces)\n- OpenProject Community News Review: Continuous Development and Open-Source Engagement (Impact: 92)\n- Budgets - OpenProject (Impact: 92)\n- Gantt charts - OpenProject (Impact: 92)\n- ... and 1 more\n\n\n**Milestone Checkpoints:**\n- ✅ **Week 4:** First 3-5 quick wins published\n- ✅ **Week 8:** Strategic content 50% complete\n- ✅ **Week 12:** Full 90-day roadmap execution complete\n- ✅ **Month 4:** Initial performance review and optimization\n\n**Success Metrics:**\n- On-time publication rate: Target 90%+\n- Quality assurance pass rate: Target 95%+\n- Early traffic signals: Track from week 2\n",
       "visual_elements": [
         "Gantt chart: 12-week timeline with color-coded bars",
         "Milestone markers at weeks 4, 8, 12",
@@ -2862,8 +2872,8 @@
     ],
     "recommendation_count": 31,
     "gap_count": 31,
-    "expected_accuracy": ">=96%",
-    "report_generated": "2025-11-28",
+    "expected_accuracy": ">=84%",
+    "report_generated": "2025-11-30",
     "analysis_version": "1.0",
     "min_accuracy_threshold": "80%",
     "analysis_period_days": 90,
