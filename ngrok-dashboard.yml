@@ -1,0 +1,8 @@
+﻿version: "2"
+authtoken: 35n7Q5eRpxlKzrUm33VOoFrmeF0_5FZo3vbSdNGS5eyJdPHeU
+web_addr: 0.0.0.0:4040
+tunnels:
+  dashboard:
+    proto: http
+    addr: dashboard:8050
+    inspect: true

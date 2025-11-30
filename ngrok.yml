@@ -1,0 +1,8 @@
+﻿version: "2"
+authtoken: 35p9NfP1yktRvUjQQ3NENZnUxEL_53MRWr2wZMidyNLp3gc6r
+web_addr: 0.0.0.0:4040
+tunnels:
+  api:
+    proto: http
+    addr: api:8000
+    inspect: true

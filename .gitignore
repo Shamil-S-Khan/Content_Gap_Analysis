@@ -31,9 +31,6 @@ dashboards/
 *.pdf
 
 # ngrok - IMPORTANT: Keep auth tokens private!
-ngrok.yml
-ngrok-dashboard.yml
-ngrok*.yml
 
 # Environment
 .env
