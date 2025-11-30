@@ -4,6 +4,7 @@ Provides REST API endpoints for supervisor agents to trigger analysis and retrie
 """
 
 from fastapi import FastAPI, HTTPException, BackgroundTasks
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, FileResponse
 from pydantic import BaseModel, Field
 from typing import Optional, Dict, Any, List
@@ -20,6 +21,15 @@ app = FastAPI(
     title="Content Gap Analysis API",
     description="AI-powered content gap analysis with ML recommendations",
     version="1.0.0"
+)
+
+# Configure CORS to allow requests from supervisor agents
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all origins (you can restrict this to specific domains)
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods (GET, POST, etc.)
+    allow_headers=["*"],  # Allow all headers
 )
 
 # Global storage for analysis results (in-memory cache)
