@@ -74,8 +74,8 @@ async def health_check():
     }
 
 
-@app.post("/run", response_model=AnalysisResponse)
-async def run_analysis(request: AnalysisRequest, background_tasks: BackgroundTasks):
+@app.api_route("/run", methods=["GET", "POST"], response_model=AnalysisResponse)
+async def run_analysis(request: Optional[AnalysisRequest] = None, background_tasks: BackgroundTasks = None):
     """
     Trigger content gap analysis
     
@@ -87,10 +87,17 @@ async def run_analysis(request: AnalysisRequest, background_tasks: BackgroundTas
     if analysis_running:
         raise HTTPException(status_code=409, detail="Analysis already running. Please wait.")
     
+    # Use default request if none provided (for GET requests)
+    if request is None:
+        request = AnalysisRequest()
+    
     # Generate job ID
     job_id = datetime.now().strftime("%Y%m%d_%H%M%S")
     last_job_id = job_id
     analysis_running = True
+    
+    # Ensure reports directory exists
+    os.makedirs("reports", exist_ok=True)
     
     try:
         # Discover input files
@@ -136,6 +143,10 @@ async def run_analysis(request: AnalysisRequest, background_tasks: BackgroundTas
         # Cache results
         last_result = results
         last_metrics = results.get('model_metrics', {})
+        
+        # Save results to JSON file for dashboard
+        with open('content_gap_analysis_package.json', 'w', encoding='utf-8') as f:
+            json.dump(results, f, indent=2, ensure_ascii=False)
         
         print(f"[API] Analysis job {job_id} completed successfully")
         

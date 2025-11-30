@@ -37,7 +37,7 @@ COLORS = {
 
 def load_latest_results():
     """Load the latest analysis results from file"""
-    package_path = 'content_gap_analysis_package.json'
+    package_path = '../content_gap_analysis_package.json'
     
     if not os.path.exists(package_path):
         return None
