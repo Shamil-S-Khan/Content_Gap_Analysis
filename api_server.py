@@ -4,6 +4,7 @@ Provides REST API endpoints for supervisor agents to trigger analysis and retrie
 """
 
 from fastapi import FastAPI, HTTPException, BackgroundTasks
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, FileResponse
 from pydantic import BaseModel, Field
 from typing import Optional, Dict, Any, List
@@ -20,6 +21,15 @@ app = FastAPI(
     title="Content Gap Analysis API",
     description="AI-powered content gap analysis with ML recommendations",
     version="1.0.0"
+)
+
+# Configure CORS to allow requests from supervisor agents
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all origins (you can restrict this to specific domains)
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods (GET, POST, etc.)
+    allow_headers=["*"],  # Allow all headers
 )
 
 # Global storage for analysis results (in-memory cache)
@@ -75,7 +85,7 @@ async def health_check():
 
 
 @app.api_route("/run", methods=["GET", "POST"], response_model=AnalysisResponse)
-async def run_analysis(request: Optional[AnalysisRequest] = None, background_tasks: BackgroundTasks = None):
+async def run_analysis(request: AnalysisRequest = None, background_tasks: BackgroundTasks = None):
     """
     Trigger content gap analysis
     
@@ -83,6 +93,10 @@ async def run_analysis(request: Optional[AnalysisRequest] = None, background_tas
     runs full analysis pipeline, and caches results.
     """
     global last_result, last_metrics, last_job_id, analysis_running
+    
+    # Handle GET requests without body - use defaults
+    if request is None:
+        request = AnalysisRequest()
     
     if analysis_running:
         raise HTTPException(status_code=409, detail="Analysis already running. Please wait.")
